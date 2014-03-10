@@ -4,3 +4,23 @@ title: Contact
 ---
 
 Hello, welcome to the contact page.
+
+<form action="http://getsimpleform.com/messages?form_api_token=6f712f289b4db9daec26a6b271c47aae" method="post">
+  <input type='hidden' name='redirect_to' value='<the complete return url e.g. http://fooey.com/thank-you.html>' />
+	<div class="form-item field-name">
+		<label>Name</label>
+		<input type='text' name='name' />
+	</div>
+
+	<div class="form-item field-email">
+		<label>Email</label>
+		<input type='email' name='email' />
+	</div>
+
+	<div class="form-item field-message">
+		<label>Message</label>
+	  <textarea name="message"></textarea>
+	</div>
+
+  <input type='submit' value='Send it' />
+</form>
