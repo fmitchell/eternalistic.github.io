@@ -1,0 +1,84 @@
+//
+// Page
+//
+
+
+// HTML
+html {
+	background: $white;
+  color: $gray-150;
+  font-family: $font-body;
+}
+
+
+// Body
+body {
+}
+
+
+// HTML + Body
+html, 
+body {
+	margin: 0;
+	padding: 0;
+}
+
+
+// Page
+#page {
+}
+
+
+// Header
+#header {
+  padding: em(40px);
+
+  @include breakpoint($bp-large, $no-query: true) {   
+    @include grid-span(4, 1);
+  }
+}
+
+
+// Header info
+#header-info {
+  font-size: em(12px);
+}
+
+
+// Logo
+#logo {
+  display: block;
+  margin-bottom: em(20px);
+
+  img {
+    display: block;
+    width: 100px;
+  }
+}
+
+
+// Navigation
+#navigation {
+}
+
+
+// Main
+#main {
+  padding: em(40px);
+
+  @include breakpoint($bp-large, $no-query: true) {   
+    @include grid-span(14, 5);
+  }
+}
+
+
+// Content
+#content {
+}
+
+
+// Footer
+footer {
+  clear: both;
+  padding-left: em(40px);
+}

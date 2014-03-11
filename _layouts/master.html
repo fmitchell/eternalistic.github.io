@@ -1,45 +1,105 @@
-<!DOCTYPE html PUBLIC "-//W3C//DTD XHTML 1.1//EN"
-  "http://www.w3.org/TR/xhtml11/DTD/xhtml11.dtd">
+<!DOCTYPE html>
+<!--[if IEMobile 7]><html class="iem7"><![endif]-->
+<!--[if lte IE 6]><html class="lt-ie9 lt-ie8 lt-ie7"><![endif]-->
+<!--[if (IE 7)&(!IEMobile)]><html class="lt-ie9 lt-ie8"><![endif]-->
+<!--[if IE 8]><html class="lt-ie9"><![endif]-->
+<!--[if (gte IE 9)|(gt IEMobile 7)]><!--><html><!--<![endif]-->
 
-<html>
-  <head>
-    <meta http-equiv="Content-type" content="text/html; charset=utf-8">
-    <title>Eternalistic - {{ page.title }}</title>
-    <link rel="stylesheet" href="/css/style.css" type="text/css" media="all" charset="utf-8"/>
-    <script src="/javascripts/jquery.js" type="text/javascript" charset="utf-8"></script>
-    <script src="/javascripts/jquery.github.js" type="text/javascript" charset="utf-8"></script>
-    <link rel='alternate' type='application/rss+xml' href='http://feeds.feedburner.com/JoinTheConversation' />
-  </head>
-  <body>
-    <div id='wrapper'>
-      <div id='header'>
-        <h1>Jeremy Caldwell</h1>
-        <h2>is a tool of the masses</h2>
+<head>
+  <meta charset="utf-8">
+  <meta http-equiv="X-UA-Compatible" content="IE=edge">
+  <title>{{ page.title }} | Eternalistic</title>
+  <meta name="MobileOptimized" content="width">
+  <meta name="HandheldFriendly" content="true">
+  <meta name="viewport" content="width=device-width, initial-scale=1">
+  <meta http-equiv="cleartype" content="on">
+
+  <!--[if (lt IE 9)]>
+  <link type="text/css" rel="stylesheet" href="/css/styles-ie8.css" media="all" />
+  <script src="/js/html5/html5shiv.js"></script>
+  <![endif]-->
+   
+  <!--[if (gte IE 9)|(IEMobile)|(!IE)]><!-->
+  <link type="text/css" rel="stylesheet" href="/css/styles.css" media="all" />
+  <!--<![endif]-->
+
+</head>
+
+<body>
+
+  <div id="page">
+
+    <p id="skip-link">
+      <a href="#main-content" class="element-invisible element-focusable">Skip to content</a>
+    </p>
+
+    <header id="header" role="banner">
+      <div id="header-info">
+        <a href="/" title="Home" rel="home" id="logo">
+          <img src="/images/logo.png" />
+        </a>
+        <p>Jeremy Caldwell<br/>
+          Frontend web developer <br/>
+          Spokane, WA</p>
       </div>
-      <div id='menu'>
-        <ul>
-          <li><a href='/'>Home</a></li>
-          <li><a href='/blog.html'>Blog</a></li>
-          <li><a href='/about.html'>About</a></li>
-          <li><a href='/talks.html'>Talks</a></li>
-          <li><a href='/open-source.html'>Code</a></li>
-          <li><a href='http://github.com/schacon' target='_blank' rel='me'>GitHub</a></li>
-          <li><a href='http://www.linkedin.com/in/schacon' target='_blank' rel='me'>LinkedIn</a></li>
-          <li><a href='http://twitter.com/chacon' target='_blank' rel='me'>Twitter</a></li>
+
+      <hr class="narrow" />
+
+      <nav id="primary" role="navigation">
+        <ul class="menu">
+          <li><a href='/about'>About / Resume</a></li>
+          <li><a href='/contact'>Contact me</a></li>
         </ul>
-      </div>
-      <div id='content'>
+      </nav><!-- /nav -->
+
+      <hr class="narrow" />
+
+      <nav id="secondary" role="navigation">
+        <ul class="menu">
+          <li>
+            <a href='/projects'>Projects</a>
+            <ul class="menu">
+              <li><a href="#">Yoke's Fresh Markets</a></li>
+              <li><a href="#">Digital Turbine</a></li>
+              <li><a href="#">Facing History and Ourselves</a></li>
+              <li><a href="#">Families USA</a></li>
+              <li><a href="#">Dell / Symantec Portal</a></li>
+              <li><a href="#">Maxcess International</a></li>
+              <li><a href="#">O'Reilly Ignite</a></li>
+              <li><a href="#">World Health Advocacy</a></li>
+              <li><a href="#">Eyeneer TV</a></li>
+              <li><a href="#">Eaton Certified Contractor Network</a></li>
+            </ul>
+          </li>
+        </ul>
+      </nav><!-- /nav -->
+    </header>
+
+    <section id="main">
+      <div id="content" role="main">
+        <a id="main-content"></a>
         {{ content }}
-        <div class='clearfix'></div>
-      </div>
-    </div>
-    <div id='footer'>
-      Copyright &copy; 2009 Scott Chacon. Theme and code by <a href="http://github.com/mbleigh">Michael Bleigh</a>. Hosted by <a href='http://github.com/schacon/schacon.github.com/' target='_blank'>GitHub</a> and powered by <a href='http://github.com/mojombo/jekyll'>Jekyll</a>.
-    </div>
+      </div><!-- /#content -->
+    </section><!-- /#main -->
 
-<a class="twitter-timeline"  href="https://twitter.com/caldwellproject"  data-widget-id="404389885148016640">Tweets by @caldwellproject</a>
-<script>!function(d,s,id){var js,fjs=d.getElementsByTagName(s)[0],p=/^http:/.test(d.location)?'http':'https';if(!d.getElementById(id)){js=d.createElement(s);js.id=id;js.src=p+"://platform.twitter.com/widgets.js";fjs.parentNode.insertBefore(js,fjs);}}(document,"script","twitter-wjs");</script>
+    <footer id="footer">
+      <div class="inner">
+        <hr class="narrow" />
+        <nav id="social" role="navigation">
+          <ul class="menu">
+            <li class="first"><a href="http://twitter.com/eternalistic" target="_blank" class="twitter" title="Twitter">Twitter</a></li>
+            <li><a href="http://github.com/eternalistic" target="_blank" class="github" title="GitHub">GitHub</a></li>
+            <li class="last"><a href="http://www.linkedin.com/in/eternalistic" target="_blank" class="linkedin" title="LinkedIn">LinkedIn</a></li>
+          </ul>
+        </nav>
+      </div><!-- ./inner -->
+    </footer>
 
+  </div><!-- /#page -->
 
-  </body>
+  <script src="//ajax.googleapis.com/ajax/libs/jquery/1.11.0/jquery.min.js"></script>
+  <script>window.jQuery || document.write('<script src="js/jquery/jquery-1.11.0.min.js"><\/script>')</script>
+  <script src="/js/build/production.min.js"></script>
+
+</body>
 </html>

@@ -1,0 +1,111 @@
+//
+// Navigation
+//
+
+
+
+nav {
+
+	h2 {
+		color: $gray-50;
+		font-size: em(13px);
+		font-weight: 100;
+	}
+
+	// List
+	ul.menu {
+		@extend %resetlist;
+
+		font-size: em(13px);
+
+		ul.menu {
+			font-size: 100%;
+			margin-left: em(15px);
+
+			li {
+				&:before {
+					content: "- ";
+					margin-left: -10px;
+					margin-top: 3px;
+					position: absolute;
+				}
+			}
+		}
+	}
+
+	// List items
+	li {
+		line-height: 100%;
+	}
+
+	// Links
+	a,
+	a:visited {
+		display: block;
+		padding: em(5px) 0;
+		text-decoration: none;
+
+	  &:hover,
+	  &:focus,
+	  &:active {
+	  	color: $gray-50;
+	  }
+	}
+}
+
+
+// Navigation - Primary
+#primary {
+	ul {
+	}
+}
+
+
+// Navigation - Secondary
+#secondary {
+	ul {
+	}
+}
+
+
+// Social
+#social {
+	a,
+	a:visited {
+		display: block;
+		float: left;
+		height: 20px;
+		margin-right: em(20px);
+		padding: 0;
+		width: 20px;
+
+		@extend %imgrep;
+	}
+
+	// Twitter
+	a.twitter {
+		background: url(../images/social/twitter.png) no-repeat 0 0;
+
+		&:hover {
+			background: url(../images/social/twitter-over.png) no-repeat 0 0;
+		}
+	}
+
+	// Github
+	a.github {
+		background: url(../images/social/github.png) no-repeat 0 0;
+
+		&:hover {
+			background: url(../images/social/github-over.png) no-repeat 0 0;
+		}
+	}
+
+	// LinkedIn
+	a.linkedin {
+		background: url(../images/social/linkedin.png) no-repeat 0 0;
+
+		&:hover {
+			background: url(../images/social/linkedin-over.png) no-repeat 0 0;
+		}
+	}
+}
