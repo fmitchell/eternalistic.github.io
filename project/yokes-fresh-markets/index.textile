@@ -1,0 +1,14 @@
+---
+layout: master
+title: Yoke's Fresh Markets
+---
+
+<div class="breadcrumb">
+	"Project":/project: Yoke's Fresh Markets
+</div>
+
+h1. Yoke's Fresh Markets
+
+!../../images/logo.png!
+
+"Yoke's Fresh Markets":www.yokesfreshmarkets.com

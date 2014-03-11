@@ -44,9 +44,13 @@ $arial:           Arial, Helvetica, "Nimbus Sans L", sans-serif;
 // http://meyerweb.com/eric/thoughts/2010/02/12/fixed-monospace-sizing/
 $courier:         "Courier New", "DejaVu Sans Mono", monospace, sans-serif;
 
-// Web Fonts
-// $font-body: 			"ag-book", sans-serif;
-$font-body: 			$helvetica;
+// Webfonts
+$raleway: 'Raleway', sans-serif;
+$lora: 'Lora', serif;
+
+// Defaults
+$font-body: $raleway;
+$font-header: $lora;
 
 // Now create some variables for the font stacks we want to use on this site.
 $base-font-family: $font-body; // The font family set on the html element.

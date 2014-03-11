@@ -5,9 +5,10 @@
 
 // HTML
 html {
-	background: $white;
+	background: $bg;
   color: $gray-150;
   font-family: $font-body;
+  text-shadow: 0 1px 0 $white;
 }
 
 
