@@ -11,6 +11,16 @@
 // - http://www.adequatelygood.com/2010/3/JavaScript-Module-Pattern-In-Depth
 (function ($, window, document, undefined) {
 
+
+	// Nav toggle
+	$('#nav-toggle').on('click', function(ev) {
+		$(this).toggleClass('active');
+		$(".menu-blocks").slideToggle();
+		ev.preventDefault();
+	});
+
+
+
   // Grid toggle
   // $(function() {
 

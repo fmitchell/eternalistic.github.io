@@ -29,3 +29,12 @@
     width: 100%;
   }
 }
+
+
+// Screenshot
+img.screenshot {
+  border: 1px solid $gray-223;
+  display: block;
+  
+  @include box-shadow(rgba($black, .125) 0 0 4px);
+}

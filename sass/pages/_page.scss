@@ -35,21 +35,40 @@ body {
 // Header
 #header {
   background: $white;
-  height: 100%;
-  overflow-y: auto;
-  padding: em(40px);
-  position: fixed;
+  padding: em(20px);
+
+  @extend %clearfix;
 
   @include breakpoint($bp-large, $no-query: true) {   
-    @include grid-span(4, 1);
+    height: 100%;
+    overflow-y: auto;
+    padding: em(40px);
+    position: fixed;
+
+    // @include grid-span(4, 1);
+
+width: 250px;
+
   }
+}
+
+
+// Header top
+#header-top {
+  @extend %clearfix;
 }
 
 
 // Header info
 #header-info {
   font-size: em(12px);
+  position: relative;
+
+  @include grid-span(3, 1);
 }
+
+
+
 
 
 // Logo
@@ -72,18 +91,22 @@ body {
 // Main
 #main {
   color: $gray-68;
-  height: 100%;
-  padding: em(40px);
+  padding: em(20px);
 
   @include breakpoint($bp-large, $no-query: true) {   
-    @include grid-span(14, 5);
+    height: 100%;
+    margin-left: 250px;
+    padding: em(40px);
   }
 }
 
 
 // Content
 #content {
-  max-width: 800px;
+  @include breakpoint($bp-large, $no-query: true) {
+    max-width: 800px;
+    padding-bottom: em(40px);
+  }
 }
 
 

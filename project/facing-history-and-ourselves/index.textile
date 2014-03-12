@@ -29,4 +29,12 @@ Launched: March 2014
 
 p(sitelink). Site: "Facing History and Ourselves":www.facinghistory.org
 
-!http://eternalistic.net/sites/eternalistic.net/files/imagecache/portfolio_full/portfolio/home_1.jpg!
+!(screenshot)http://eternalistic.net/sites/eternalistic.net/files/imagecache/portfolio_full/portfolio/home_1.jpg!
+
+!(screenshot)http://eternalistic.net/sites/eternalistic.net/files/imagecache/portfolio_full/thumbnail-screenshots/calendar.jpg!
+
+!(screenshot)http://eternalistic.net/sites/eternalistic.net/files/imagecache/portfolio_full/thumbnail-screenshots/event.jpg!
+
+!(screenshot)http://eternalistic.net/sites/eternalistic.net/files/imagecache/portfolio_full/thumbnail-screenshots/educator.jpg!
+
+!(screenshot)http://eternalistic.net/sites/eternalistic.net/files/imagecache/portfolio_full/thumbnail-screenshots/benefits.jpg!

@@ -1,0 +1,141 @@
+---
+layout: master
+title: About
+---
+
+h1. Jeremy Caldwell
+
+p(intro). Over ten years of web development experience and a diverse set of skills that appropriately enables me to design, develop, and manage user centered web sites and web applications. In addition, I have a self-motivated desire for learning, quality work, and team efforts that produce measurable results.
+
+h2. Senior Web Developer
+
+Magner Sanborn, Spokane, WA
+April 2012 - Present
+www.magnersanborn.com
+
+* Drupal site and theme development
+
+h2. Software Engineer
+
+OpenSesame, Portland, OR
+November 2010 - April 2012
+www.opensesame.com | www.bluevolt.com
+
+* Drupal theme development
+* Provide insight and solutions in regards to the web development process
+* HTML/CSS development
+* PHP development
+* jQuery development
+* User interface design and interaction
+
+h2. Drupal Themer / Project Manager
+
+TopNotchThemes, San Francisco, CA
+June 2008 - November 2010
+www.topnotchthemes.com | www.fusiondrupalthemes.com
+
+* Drupal theme development
+* Project management and client relations
+* Provide insight and solutions in regards to the web development process
+* Develop creative concepts for themes and admin interaction
+* HTML/CSS development
+* Technical support
+
+h2. Web Developer - Contractor
+
+Palantir.net, Evanston, IL
+November 2007 - June 2008
+www.palantir.net
+
+* Drupal theme development
+* Provide insight and solutions in regards to the web development process
+* Develop creative concepts for web site content and interaction
+* HTML/CSS development
+* Web site maintenance and updates
+* Search engine optimization
+
+h2. Web Developer
+
+CAESY Education Systems, Vancouver, Washington
+January 2006 - November 2007
+www.caesy.com | www.caesyonline.com | www.caesydemo.com
+
+* Technical lead / developer on all web related projects
+* Provide insight and solutions in regards to the web development process
+* Develop creative concepts for web site content and interaction
+* HTML/CSS development
+* Drupal 4.7, 5.x development - Design and coding from the ground up
+* Provide Macromedia Flash solutions
+* Collaboratively work with a UI Designer and a staff of writers
+* Multimedia Graphic Design
+* Web site maintenance and updates
+* Template Design and Creation
+* Search engine optimization
+* Recreated the CAESY 2008 DVD in flash format to stream video presentations to customers remotely on caesydemo.com
+* Over 20 scheduled web-based demonstrations were confirmed for caesydemo.com in the first two weeks of completion
+* Developed and created a marketing tool for sales representatives to take the caesydemo.com website with them so they can demonstrate the video presentations on their laptops without the need for internet access
+* Created the auto installer file for the CAESY Demo CD-ROM
+* Shipped over 1000 CAESY Demo CD-ROMs for sales representatives to use in the field
+* The CAESY Demo CD-ROM is used in on the tradeshow floor to showcase the CAESY DVD.
+
+h2. Help Desk Agent
+
+CAESY Education Systems, Vancouver, Washington
+August 2005 - January 2006
+
+* Phone based technical support
+* Interoffice technical support
+* Network and workstation troubleshooting
+* Product testing and information gathering
+* DVD support
+* Working as a team to pool ideas and information into a FAQ
+
+h2. Web Designer / Developer - Owner
+
+Eternalistic Designs, Spokane, Washington
+www.eternalistic.net
+March 2003 - Present
+
+* Working with clients to help promote their business online and in print
+* Website and Graphic Design
+* HTML/CSS development
+* Provide Macromedia Flash solutions
+* Multimedia Graphic Design
+* Web site maintenance and updates
+* Develop creative concepts for web site content and interaction
+* Building and maintaining online forums, e-commerce solutions, blogs and newsletters
+* Design and creation of printed materials such as business cards and flyers
+* CSS/HTML Tutoring and consultation services
+
+h2. Education
+
+* Eastern Washington University, Cheney, WA
+* B.S., Applied Technology
+
+* Clark Community College, Vancouver, WA
+* A.A.S., Data Networking and Telecommunications
+* A.A., General Studies
+
+* Completed Cisco Networking courses
+* Completed Telecommunications courses
+
+* Created and released a Drupal Admin theme - Nerdalistic
+* Contributed a theme to the highly popular Drupal Administrative drop-down menu, Simplemenu.
+* Worked with Skills USA as a judge for the Web Design competition in 2006 and 2007
+* Created website for Eastern Washington University / Clark College collaboration (no longer used)
+* Attended WebVisions 2006 conference in Portland, OR
+* Attended WebVisions 2009 conference in Portland, OR
+* Attended Web Directions North conference in Vancouver, B.C., Canada in February 2007
+* Attended DrupalCon 2010 in San Francisco
+* Attended DrupalCon 2011 in Chicago
+* Attended DrupalCon 2012 in Denver
+* Converted the Drupal 6 release of Acquia Marina to Drupal 5
+* Created the Acquia Marina Drupal 6 and 7 theme based on Fusion Core
+* Created the Acquia Prosper Drupal 6 theme based on Fusion Core
+* Created the Acquia Slate Drupal 6 and 7 theme based on Fusion Core
+* Created the jBase5 Drupal 7 HTML5 theme
+
+
+h2. References
+
+Available upon request.
