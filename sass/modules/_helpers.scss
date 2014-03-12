@@ -35,6 +35,16 @@
 img.screenshot {
   border: 1px solid $gray-223;
   display: block;
-  
+  margin-bottom: em(20px);
+
   @include box-shadow(rgba($black, .125) 0 0 4px);
+
+  @include breakpoint($bp-large, $no-query: true) {
+    margin-bottom: em(40px);
+  }
+
+  // Last
+  .last & {
+    margin-bottom: 0;
+  }
 }

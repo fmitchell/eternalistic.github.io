@@ -11,7 +11,7 @@ h2. Senior Web Developer
 
 Magner Sanborn, Spokane, WA
 April 2012 - Present
-www.magnersanborn.com
+"www.magnersanborn.com":http://www.magnersanborn.com
 
 * Drupal site and theme development
 

@@ -81,9 +81,6 @@ body {
 }
 
 
-
-
-
 // Logo
 #logo {
   display: block;
@@ -93,11 +90,6 @@ body {
     display: block;
     width: 100px;
   }
-}
-
-
-// Navigation
-#navigation {
 }
 
 
@@ -118,12 +110,6 @@ body {
 #content {
   @include breakpoint($bp-large, $no-query: true) {
     max-width: 800px;
-    padding-bottom: em(40px);
+    padding-bottom: em(20px);
   }
 }
-
-
-// Footer
-footer {
-}
-
