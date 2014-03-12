@@ -21,7 +21,7 @@
 	& span, 
 	& span:before, 
 	& span:after {
-		background: $gray-150;
+		background: $gray-84;
 		border-radius: 1px;
 		content: '';
 		display: block;
@@ -72,7 +72,7 @@
 nav {
 
 	h2 {
-		color: $gray-50;
+		color: $gray-84;
 		font-size: em(13px);
 		font-weight: 100;
 	}
@@ -84,8 +84,10 @@ nav {
 		font-size: em(13px);
 
 		ul.menu {
+			display: none;
 			font-size: 100%;
 			margin-left: em(15px);
+			position: relative;
 
 			li {
 				&:before {
@@ -113,28 +115,39 @@ nav {
 	  &:hover,
 	  &:focus,
 	  &:active {
-	  	color: $gray-50;
+	  	color: $gray-84;
 	  }
+	}
+
+	// Projects
+	#projects {
+		&:after {
+			content: " +";
+		}
+
+		&.active {
+			&:after {
+				content: " -";
+			}
+		}
 	}
 }
 
 
 // Navigation - Primary
 #primary {
-	ul {
-	}
 }
 
 
 // Navigation - Secondary
 #secondary {
-	ul {
-	}
 }
 
 
 // Social
 #social {
+	@extend %clearfix;
+
 	a,
 	a:visited {
 		display: block;

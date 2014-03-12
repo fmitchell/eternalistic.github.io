@@ -20,6 +20,13 @@
 	});
 
 
+  // Projects toggle
+  $('#projects').on('click', function(ev) {
+    $(this).toggleClass('active');
+    $(".projects-menu").slideToggle();
+    ev.preventDefault();
+  });
+  
 
   // Grid toggle
   // $(function() {

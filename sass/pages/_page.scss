@@ -35,20 +35,25 @@ body {
 // Header
 #header {
   background: $white;
+  border-bottom: 1px solid $gray-223;
   padding: em(20px);
 
   @extend %clearfix;
 
-  @include breakpoint($bp-large, $no-query: true) {   
+  @include box-shadow(rgba($black, .125) 0 0 4px);
+
+  @include breakpoint($bp-large, $no-query: true) {  
+    border-bottom: none; 
+    border-right: 1px solid $gray-223;
     height: 100%;
     overflow-y: auto;
     padding: em(40px);
     position: fixed;
+    width: 250px;
+  }
 
-    // @include grid-span(4, 1);
-
-width: 250px;
-
+  p {
+    font-size: em(12px);
   }
 }
 
@@ -61,10 +66,18 @@ width: 250px;
 
 // Header info
 #header-info {
-  font-size: em(12px);
   position: relative;
 
   @include grid-span(3, 1);
+
+  @include breakpoint($bp-large, $no-query: true) {
+    margin-bottom: em(20px);
+    width: 100%;
+  }
+
+  p {
+    margin-bottom: 0;
+  }
 }
 
 
@@ -90,7 +103,7 @@ width: 250px;
 
 // Main
 #main {
-  color: $gray-68;
+  color: $gray-84;
   padding: em(20px);
 
   @include breakpoint($bp-large, $no-query: true) {   
@@ -113,3 +126,4 @@ width: 250px;
 // Footer
 footer {
 }
+
