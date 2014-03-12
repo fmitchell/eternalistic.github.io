@@ -35,7 +35,7 @@ nav {
 
 	// List items
 	li {
-		line-height: 100%;
+		line-height: 125%;
 	}
 
 	// Links
@@ -82,12 +82,12 @@ nav {
 		@extend %imgrep;
 	}
 
-	// Twitter
-	a.twitter {
-		background: url(../images/social/twitter.png) no-repeat 0 0;
+	// Drupal
+	a.drupal {
+		background: url(../images/social/drupal.png) no-repeat 0 0;
 
 		&:hover {
-			background: url(../images/social/twitter-over.png) no-repeat 0 0;
+			background: url(../images/social/drupal-over.png) no-repeat 0 0;
 		}
 	}
 
@@ -97,6 +97,15 @@ nav {
 
 		&:hover {
 			background: url(../images/social/github-over.png) no-repeat 0 0;
+		}
+	}
+
+	// Twitter
+	a.twitter {
+		background: url(../images/social/twitter.png) no-repeat 0 0;
+
+		&:hover {
+			background: url(../images/social/twitter-over.png) no-repeat 0 0;
 		}
 	}
 
