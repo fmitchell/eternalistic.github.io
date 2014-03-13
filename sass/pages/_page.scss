@@ -6,9 +6,9 @@
 // HTML
 html {
 	background: $bg;
-  color: $gray-150;
+  color: #444;
   font-family: $font-body;
-  text-shadow: 0 1px 0 $white;
+  font-weight: 100;
 }
 
 
@@ -53,7 +53,7 @@ body {
   }
 
   p {
-    font-size: em(12px);
+    font-size: em(13px);
   }
 }
 
@@ -110,6 +110,6 @@ body {
 #content {
   @include breakpoint($bp-large, $no-query: true) {
     max-width: 800px;
-    padding-bottom: em(20px);
+    padding-bottom: em(40px);
   }
 }

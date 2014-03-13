@@ -73,7 +73,7 @@ nav {
 
 	h2 {
 		color: $gray-84;
-		font-size: em(13px);
+		font-size: em(14px);
 		font-weight: 100;
 	}
 
@@ -81,7 +81,7 @@ nav {
 	ul.menu {
 		@extend %resetlist;
 
-		font-size: em(13px);
+		font-size: em(14px);
 
 		ul.menu {
 			display: none;
@@ -108,6 +108,7 @@ nav {
 	// Links
 	a,
 	a:visited {
+		color: $gray-84;
 		display: block;
 		padding: em(5px) 0;
 		text-decoration: none;
@@ -158,41 +159,33 @@ nav {
 		width: 20px;
 
 		@extend %imgrep;
+
+		@include opacity(.25);
+
+		&:hover,
+	 	&:focus,
+	 	&:active {
+			@include opacity(1);
+		}
 	}
 
 	// Drupal
 	a.drupal {
-		background: url(../images/social/drupal.png) no-repeat 0 0;
-
-		&:hover {
-			background: url(../images/social/drupal-over.png) no-repeat 0 0;
-		}
+		background: url(../images/social/drupal-over.png) no-repeat 0 0;
 	}
 
 	// Github
 	a.github {
-		background: url(../images/social/github.png) no-repeat 0 0;
-
-		&:hover {
-			background: url(../images/social/github-over.png) no-repeat 0 0;
-		}
+		background: url(../images/social/github-over.png) no-repeat 0 0;
 	}
 
 	// Twitter
 	a.twitter {
-		background: url(../images/social/twitter.png) no-repeat 0 0;
-
-		&:hover {
-			background: url(../images/social/twitter-over.png) no-repeat 0 0;
-		}
+		background: url(../images/social/twitter-over.png) no-repeat 0 0;
 	}
 
 	// LinkedIn
 	a.linkedin {
-		background: url(../images/social/linkedin.png) no-repeat 0 0;
-
-		&:hover {
-			background: url(../images/social/linkedin-over.png) no-repeat 0 0;
-		}
+		background: url(../images/social/linkedin-over.png) no-repeat 0 0;
 	}
 }

@@ -13,15 +13,15 @@ There were mockups but they were unfinished and incomplete. I used them as direc
 
 h2. Contributions
 
-Drupal 7.x Responsive Theme
-HTML
-SASS/CSS
-Consulting
-Design direction
+* Drupal 7.x Responsive Theme
+* HTML
+* SASS/CSS
+* Consulting
+* Design direction
 
 h2. Statistics
 
-Launched: March 2014
+* Launched: March 2014
 
 p(sitelink). Site: "Facing History and Ourselves":http://www.facinghistory.org
 
