@@ -123,43 +123,41 @@ a:focus {
 h1, h2, h3, h4, h5, h6 {
   font-family: $font-header;
   font-weight: 500;
+  margin: 0;
 }
 
 h1 {
-  font-size: em(32px);
+  font-size: em(34px);
   line-height: 100%;
-  margin: 0 0 em(7px) 0;
-}
-
-h1#page-title {
-  font-size: em(30px);
+  margin-bottom: em(5px);
 }
 
 h2 {
-  font-size: em(20px);
+  font-size: em(24px);
   line-height: 100%;
-  margin: 0 0 em(5px) 0;
+  margin-bottom: em(2px);
 }
 
 h3 {
-  font-size: em(18px);
-  font-weight: 700;
-  margin: 0 0 em(3px) 0;
+  color: $gray-100;
+  font-size: em(20px);
+  line-height: 100%;
+  margin-bottom: em(5px);
 }
 
 h4 {
   font-size: em(16px);
-  margin: 0 0 em(10px) 0;
+  margin-bottom: em(5px);
 }
 
 h5 {
   font-size: em(16px);
-  margin: 0 0 em(10px) 0;
+  margin-bottom: em(5px);
 }
 
 h6 {
   font-size: em(16px);
-  margin: 0 0 em(10px) 0;
+  margin-bottom: em(5px);
 }
 
 p {
@@ -204,6 +202,8 @@ dfn {
 
 hr {
   border: none;
+  clear: both;
+  display: block;
   height: 2px;
   border-bottom: 2px solid $gray-223;
   margin-bottom: em(15px);
@@ -219,7 +219,9 @@ hr {
   &.minimal {
     border-bottom: 1px solid rgba($white, .5);
     border-top: 1px solid rgba($black, .05);
+    margin-bottom: em(25px);
     padding-bottom: 0;
+    margin-top: em(25px);
   }
 }
 

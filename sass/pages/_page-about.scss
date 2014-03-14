@@ -1,0 +1,22 @@
+//
+// About
+//
+
+
+.languages {
+	@include breakpoint($bp-large, $no-query: true) {
+		@include grid-span(3, 1);
+	}
+}
+
+.tools {
+	@include breakpoint($bp-large, $no-query: true) {
+		@include grid-span(3, 6);
+	}
+}
+
+.starters {
+	@include breakpoint($bp-large, $no-query: true) {
+		@include grid-span(3, 12);
+	}
+}

@@ -9,6 +9,38 @@ p(intro). Over ten years of web development experience and a diverse set of skil
 
 <hr class="minimal" />
 
+<div class="languages">
+h2. Languages
+
+* "Sass":http://www.sass-lang.com
+* "Compass":http://compass-style.org
+** "Breakpoint":https://github.com/Team-Sass/breakpoint 
+** "Normalize":https://github.com/JohnAlbin/normalize-scss
+** "rgbapng":https://github.com/aaronrussell/compass-rgbapng
+** "Singularity":https://github.com/Team-Sass/Singularity
+** "Toolkit":https://github.com/Team-Sass/toolkit
+* "Grunt":http://gruntjs.com
+</div>
+
+<div class="tools">
+h2. Tools
+
+* "Sublime Text":http://www.sublimetext.com
+* Command line
+* "Git":http://git-scm.com / "GitHub":http://github.com / "Beanstalk":http://beanstalkapp.com
+* "Sequel Pro":http://www.sequelpro.com
+* "MAMP":http://www.mamp.info
+</div>
+
+<div class="starters">
+h2. Starters
+
+* "HTML Starter":https://github.com/eternalistic/html-starter
+* "Drupal Zen Subtheme":https://github.com/eternalistic/zen_subtheme
+</div>
+
+<hr class="minimal" />
+
 h2. Senior Web Developer
 
 Magner Sanborn, Spokane, WA
@@ -158,22 +190,26 @@ h2. Education
 <hr class="minimal" />
 
 h2. Notable contributions
+
 * Worked with Skills USA as a judge for the Web Design competition in 2006 and 2007
 * Created website for Eastern Washington University / Clark College collaboration (no longer used)
 
-WebVisions
+h3. WebVisions
+
 * Attended WebVisions 2006 conference in Portland, OR
 * Attended WebVisions 2009 conference in Portland, OR
 * Attended WebVisions 2013 conference in Portland, OR
 * Attended Web Directions North conference in Vancouver, B.C., Canada in February 2007
 
-DrupalCon
+h3. DrupalCon
+
 * Attended DrupalCon 2010 in San Francisco, CA
 * Attended DrupalCon 2011 in Chicago, IL
 * Attended DrupalCon 2012 in Denver, CO
 * Attended DrupalCon 2013 in Portland, OR
 
-Projects
+h3. Drupal Projects
+
 * Created and released a Nerdalistic, a Drupal Admin theme
 * Contributed a theme to Simplemenu
 * Converted the Drupal 6 release of Acquia Marina to Drupal 5
