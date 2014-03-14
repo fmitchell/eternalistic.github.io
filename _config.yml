@@ -2,7 +2,7 @@ url: http://www.eternalistic.net
 name: Jeremy Caldwell
 author: Jeremy Caldwell
 
-markdown: redcarpet
+# markdown: redcarpet
 paginate: 5
 
 root: /

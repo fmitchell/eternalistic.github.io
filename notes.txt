@@ -15,3 +15,7 @@ https://github.com/jekyll/jekyll/wiki/Sites
 
 Prose.io
 https://github.com/prose/prose/wiki/Prose-Configuration
+
+
+Plugins
+http://jekyllrb.com/docs/plugins/
