@@ -1,6 +1,8 @@
 ---
 layout: master
 title: Dell / Symantec Portal
+body_id: dellsymantec
+body_section: project
 ---
 
 h1. {{ page.title }}

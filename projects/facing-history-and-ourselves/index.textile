@@ -1,6 +1,8 @@
 ---
 layout: master
 title: Facing History and Ourselves
+body_id: facinghistory
+body_section: project
 ---
 
 h1. {{ page.title }}

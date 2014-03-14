@@ -1,6 +1,8 @@
 ---
 layout: master
 title: Yoke's Fresh Markets
+body_id: yokes
+body_section: project
 ---
 
 h1. {{ page.title }}

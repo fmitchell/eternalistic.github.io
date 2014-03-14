@@ -1,6 +1,8 @@
 ---
 layout: master
 title: Eyeneer TV
+body_id: eyeneertv
+body_section: project
 ---
 
 h1. {{ page.title }}

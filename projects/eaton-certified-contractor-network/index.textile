@@ -1,6 +1,8 @@
 ---
 layout: master
 title: Eaton Certified Contractor Network
+body_id: eatoncertified
+body_section: project
 ---
 
 h1. {{ page.title }}

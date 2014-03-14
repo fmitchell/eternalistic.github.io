@@ -1,6 +1,8 @@
 ---
 layout: master
 title: About
+body_id: about
+body_section: about
 ---
 
 h1. Jeremy Caldwell

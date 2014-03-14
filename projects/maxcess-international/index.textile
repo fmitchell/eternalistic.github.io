@@ -1,6 +1,8 @@
 ---
 layout: master
 title: Maxcess International
+body_id: maxcess
+body_section: project
 ---
 
 h1. {{ page.title }}

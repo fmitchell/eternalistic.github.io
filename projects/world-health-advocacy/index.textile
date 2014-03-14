@@ -1,6 +1,8 @@
 ---
 layout: master
 title: World Health Advocacy
+body_id: worldhealth
+body_section: project
 ---
 
 h1. {{ page.title }}

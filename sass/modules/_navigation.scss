@@ -91,6 +91,11 @@ nav {
 			margin-left: em(15px);
 			position: relative;
 
+			// Expand project menu
+			body.project & {
+				display: block;
+			}
+
 			li {
 				&:before {
 					color: $gray-166;

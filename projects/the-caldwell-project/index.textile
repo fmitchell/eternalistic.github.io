@@ -1,6 +1,8 @@
 ---
 layout: master
 title: The Caldwell Project
+body_id: caldwellproject
+body_section: project
 ---
 
 h1. {{ page.title }}

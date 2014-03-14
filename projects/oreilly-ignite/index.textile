@@ -1,6 +1,8 @@
 ---
 layout: master
 title: O'Reilly Ignite
+body_id: ignite
+body_section: project
 ---
 
 h1. {{ page.title }}

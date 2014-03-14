@@ -1,6 +1,8 @@
 ---
 layout: master
 title: Notera
+body_id: notera
+body_section: project
 ---
 
 h1. {{ page.title }}

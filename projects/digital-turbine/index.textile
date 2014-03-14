@@ -1,6 +1,8 @@
 ---
 layout: master
 title: Digital Turbine
+body_id: digitalturbine
+body_section: project
 ---
 
 h1. {{ page.title }}
