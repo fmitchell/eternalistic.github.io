@@ -1,6 +1,7 @@
 ---
 layout: master
-title: Yoke's Fresh Markets
+title: "Yoke's Fresh Markets"
+published: true
 ---
 
 h1. {{ page.title }}
@@ -23,7 +24,7 @@ h2. Contributions
 
 <hr/>
 
-p(sitelink). *Launched:* March 2014 "(btn). View site":http://www.facinghistory.org
+p(sitelink). *Launched:* June 2013 "(btn). View site":http://www.yokesfreshmarkets.com
 
 <hr/>
 
