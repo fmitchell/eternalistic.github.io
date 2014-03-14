@@ -97,8 +97,14 @@ a:visited {
   &:hover,
   &:focus,
   &:active {
-    color: #ff5d52;
-    text-decoration: underline;
+    background: #ff5d52;
+    color: $white;
+
+    @include border-radius(2px);
+
+    @include box-shadow(
+      0px 0px 0px 2px rgba(#ff5d52, 1)
+    );
   }
 }
 
@@ -135,7 +141,7 @@ h1 {
 h2 {
   font-size: em(24px);
   line-height: 100%;
-  margin-bottom: em(2px);
+  margin-bottom: em(10px);
 }
 
 h3 {
@@ -202,26 +208,24 @@ dfn {
 
 hr {
   border: none;
+  border-bottom: 1px solid rgba($white, .5);
+  border-top: 1px solid rgba($black, .05);
   clear: both;
   display: block;
   height: 2px;
-  border-bottom: 2px solid $gray-223;
-  margin-bottom: em(15px);
+  margin-bottom: em(25px);
   margin-left: 0;
-  padding-bottom: em(5px);
+  margin-top: em(25px);
+  padding-bottom: 0;
 
   // Narrow
   &.narrow {
+    border-bottom: 2px solid $gray-223;
+    border-top: none;
+    margin-bottom: em(15px);
+    margin-top: 0;
+    padding-bottom: em(15px);
     width: em(15px);
-  }
-
-  // Minimal
-  &.minimal {
-    border-bottom: 1px solid rgba($white, .5);
-    border-top: 1px solid rgba($black, .05);
-    margin-bottom: em(25px);
-    padding-bottom: 0;
-    margin-top: em(25px);
   }
 }
 
@@ -516,4 +520,40 @@ blockquote {
   background: $gray-100;
   color: $white;
   text-shadow: none;
+}
+
+
+/* ==========================================================================
+   Lists
+   ========================================================================== */
+
+ul {
+  font-size: em(18px);
+  margin: 0 0 em(20px) em(35px);
+  padding: 0;
+
+  ul {
+    font-size: 100%;
+    margin-bottom: em(10px);
+  }
+
+  // Reset
+  &.reset {
+    @extend %resetlist;
+
+    ul {
+      margin-bottom: 0;
+      margin-left: em(15px);
+      padding-left: 0;
+
+      li {
+        &:before {
+          content: "-";
+          margin-left: -12px;
+          margin-top: 0;
+          position: absolute;
+        }
+      }
+    }
+  }
 }

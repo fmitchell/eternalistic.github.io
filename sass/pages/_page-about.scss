@@ -3,20 +3,33 @@
 //
 
 
+// Toolkit
+.toolkit {
+	margin-bottom: em(20px);
+
+	@extend %clearfix;
+}
+
+
+// Languages
 .languages {
 	@include breakpoint($bp-large, $no-query: true) {
-		@include grid-span(3, 1);
+		@include grid-span(2, 1);
 	}
 }
 
+
+// Tools
 .tools {
 	@include breakpoint($bp-large, $no-query: true) {
-		@include grid-span(3, 6);
+		@include grid-span(2, 3);
 	}
 }
 
-.starters {
+
+// Other
+.other {
 	@include breakpoint($bp-large, $no-query: true) {
-		@include grid-span(3, 12);
+		@include grid-span(2, 5);
 	}
 }

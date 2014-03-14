@@ -4,11 +4,11 @@
 
 
 // Defaults
-$grids: 4;
+$grids: 2;
 $gutters: 1/4;
 
 
 // Responsive
-$grids: add-grid(6 at $bp-small);
-$grids: add-grid(12 at $bp-medium);
-$grids: add-grid(18 at $bp-large);
+$grids: add-grid(3 at $bp-small);
+$grids: add-grid(3 at $bp-medium);
+$grids: add-grid(6 at $bp-large);

@@ -62,39 +62,21 @@
 }
 
 
-// Buttons
+// Button
 %button {
+  background: #ff5d52;
   color: $white;
-  display: inline-block;
-  font-weight: 700;
-  line-height: 150%;
-  margin-bottom: em(20px);
-  padding: em(10px) em(20px);
-  text-align: center;
-  text-decoration: none;
-  
-  @include box-shadow(
-    0 1px 0 rgba($white, 0.5) inset
-  );
+  font-size: em(14px);
+  padding: em(5px) em(10px);
 
-  @include transition(background-color, .3s, ease-out 0s);
+  @include border-radius(2px);
+  @include box-shadow(none);
 
   &:hover,
   &:focus,
   &:active {
-    background: #2086B9;
+    @include box-shadow(
+      0px 0px 0px 3px rgba($black, .05)
+    );
   }
-}
-
-
-// Button - Primary
-%button-primary {
-  background: #31A2DB;
-
-}
-
-
-// Button - Secondary
-%button-secondary {
-  background: orange;
 }

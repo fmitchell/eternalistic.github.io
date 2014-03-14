@@ -55,6 +55,17 @@ body {
   p {
     font-size: em(13px);
   }
+
+  a,
+  a:visited {
+    &:hover,
+    &:focus,
+    &:active {
+      background: transparent;
+            
+      @include box-shadow(none);
+    }
+  }
 }
 
 

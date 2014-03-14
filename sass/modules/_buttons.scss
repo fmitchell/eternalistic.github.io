@@ -4,8 +4,8 @@
 
 
 // Default button style
-a.button:link,
-a.button:visited,
+a.btn,
+a.btn:visited,
 .form-submit {
 	@extend %button;
 
@@ -20,18 +20,3 @@ a.button:visited,
 .form-submit {
 	margin-right: em(10px);
 }
-
-
-// Button - Primary
-.button-primary {
-	@extend %button;
-	@extend %button-primary;
-}
-
-
-// Button - Secondary
-.button-secondary {
-	@extend %button;
-	@extend %button-secondary;
-}
-

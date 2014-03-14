@@ -5,11 +5,13 @@ title: Facing History and Ourselves
 
 h1. {{ page.title }}
 
-h2. About the project
+I worked as a contractor with the team at "ThinkShout":http://www.thinkshout.com for this project. 
 
-Working closely with the team at ThinkShout I was developed a fully responsive Drupal theme. They handled all the backend development and I was responsible for turning that markup into a responsive site that works well on as many devices as possible.
+They handled building the Drupal site and working with the client get get exactly what they wanted. I took their vision and turned that into a fully responsive site that works on as many devices as possible.
 
-There were mockups but they were unfinished and incomplete. I used them as direction for designing and building elements throughout the site and creating a look and feel that was consistent as the user navigated through the site.
+We had mockups to use for reference but they were unfinished and incomplete. I used them as direction for designing and building elements throughout the site and creating a look and feel that was consistent and filled in the gaps in the design as needed.
+
+<hr/>
 
 h2. Contributions
 
@@ -19,11 +21,11 @@ h2. Contributions
 * Consulting
 * Design direction
 
-h2. Statistics
+<hr/>
 
-* Launched: March 2014
+p(sitelink). *Launched:* March 2014 "(btn). View site":http://www.facinghistory.org
 
-p(sitelink). Site: "Facing History and Ourselves":http://www.facinghistory.org
+<hr/>
 
 <figure>!(screenshot)http://eternalistic.net/sites/eternalistic.net/files/imagecache/portfolio_full/portfolio/home_1.jpg!</figure>
 

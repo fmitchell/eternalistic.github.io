@@ -5,14 +5,24 @@ title: About
 
 h1. Jeremy Caldwell
 
-p(intro). Over ten years of web development experience and a diverse set of skills that appropriately enables me to design, develop, and manage user centered web sites and web applications. In addition, I have a self-motivated desire for learning, quality work, and team efforts that produce measurable results.
+p(intro). I have specialized in Drupal development for over seven years and have been developing for the web for 10+ years. My experience in design helps bring a different approach to development and accounts for user experience along the way. This ensures the project is easy to use and allows for future development.
 
-<hr class="minimal" />
+p(intro). I have trained and given presentations at local and regional Drupal user group meetings and continue to train employees internally. I stay current on new technologies and strive to incorporate new development tools and best practices into my workflow.
 
+p(intro). *Experience, and significant accomplishments:*
+"Acquia Silver Partner":http://www.acquia.com/partners/showcase/eternalistic-designs, "Drupal Association Individual Member":http://association.drupal.org, "Drupal.org contributor":http://drupal.org/user/72964 ("Acquia Prosper":https://drupal.org/project/acquia_prosper, "Acquia Marina":https://drupal.org/project/acquia_marina, "Acquia Slate":https://drupal.org/project/acquia_slate, "jBase5":https://drupal.org/project/jbase5, and "Viewport Calculator":https://drupal.org/project/viewport_calculator).
+
+--
+Previous clients include Symantec, Dell, O'Reilly, University of Washington, and University of Chicago.
+
+<hr/>
+
+<section class="toolkit">
 <div class="languages">
+
 h2. Languages
 
-* "Sass":http://www.sass-lang.com
+(reset)* "Sass":http://www.sass-lang.com
 * "Compass":http://compass-style.org
 ** "Breakpoint":https://github.com/Team-Sass/breakpoint 
 ** "Normalize":https://github.com/JohnAlbin/normalize-scss
@@ -25,21 +35,27 @@ h2. Languages
 <div class="tools">
 h2. Tools
 
-* "Sublime Text":http://www.sublimetext.com
+(reset)* "Sublime Text":http://www.sublimetext.com
 * Command line
-* "Git":http://git-scm.com / "GitHub":http://github.com / "Beanstalk":http://beanstalkapp.com
+* "Git":http://git-scm.com
+** "GitHub":http://github.com
+** "BitBucket":http://bitbucket.org
+** "Beanstalk":http://beanstalkapp.com
+** "Tower":http://www.git-tower.com
 * "Sequel Pro":http://www.sequelpro.com
 * "MAMP":http://www.mamp.info
 </div>
 
-<div class="starters">
-h2. Starters
+<div class="other">
+h2. Other
 
-* "HTML Starter":https://github.com/eternalistic/html-starter
+(reset)* "HTML Starter":https://github.com/eternalistic/html-starter
 * "Drupal Zen Subtheme":https://github.com/eternalistic/zen_subtheme
 </div>
 
-<hr class="minimal" />
+</section>
+
+<hr/>
 
 h2. Senior Web Developer
 
@@ -47,7 +63,7 @@ Magner Sanborn, Spokane, WA
 April 2012 - Present
 "www.magnersanborn.com":http://www.magnersanborn.com
 
-As a Senior Web Developer I specialize in frontend web development building attractive responsive sites using the Drupal framework. I also have experience working within a .NET environment and crafting elegant frontend systems.
+p(intro). As a Senior Web Developer I specialize in frontend web development building attractive responsive sites using the Drupal framework. I also have experience working within a .NET environment and crafting elegant frontend systems.
 
 I strive to stay current with the technologies within our community and contribute back and share what I’ve learned as much as possible.
 
@@ -65,7 +81,7 @@ Aside from development I am also responsible for helping lead a team of web deve
 * Client services
 * Solution architecting
 
-<hr class="minimal" />
+<hr/>
 
 h2. Co-founder
 
@@ -73,7 +89,7 @@ Notera, Spokane, WA
 January 2014 - Present
 "www.notera.net":http://www.notera.net
 
-<hr class="minimal" />
+<hr/>
 
 h2. Software Engineer
 
@@ -88,7 +104,7 @@ November 2010 - April 2012
 * jQuery development
 * User interface design and interaction
 
-<hr class="minimal" />
+<hr/>
 
 h2. Drupal Themer / Project Manager
 
@@ -103,7 +119,7 @@ June 2008 - November 2010
 * HTML/CSS development
 * Technical support
 
-<hr class="minimal" />
+<hr/>
 
 h2. Web Developer - Contractor
 
@@ -118,7 +134,7 @@ November 2007 - June 2008
 * Web site maintenance and updates
 * Search engine optimization
 
-<hr class="minimal" />
+<hr/>
 
 h2. Web Developer
 
@@ -143,7 +159,7 @@ January 2006 - November 2007
 ** Shipped over 1000 CAESY Demo CD-ROMs for sales representatives to use in the field
 ** The CAESY Demo CD-ROM is used in on the tradeshow floor to showcase the CAESY DVD.
 
-<hr class="minimal" />
+<hr/>
 
 h2. Help Desk Agent
 
@@ -157,7 +173,7 @@ August 2005 - January 2006
 * DVD support
 * Working as a team to pool ideas and information into a FAQ
 
-<hr class="minimal" />
+<hr/>
 
 h2. Web Designer / Developer - Owner
 
@@ -175,40 +191,22 @@ March 2003 - Present
 * Design and creation of printed materials such as business cards and flyers
 * CSS/HTML Tutoring and consultation services
 
-<hr class="minimal" />
+<hr/>
 
 h2. Education
 
-* Eastern Washington University, Cheney, WA
-* B.S., Applied Technology
-* Clark Community College, Vancouver, WA
-* A.A.S., Data Networking and Telecommunications
-* A.A., General Studies
-* Completed Cisco Networking courses
-* Completed Telecommunications courses
+*Eastern Washington University, Cheney, WA*
+** B.S., Applied Technology
 
-<hr class="minimal" />
+*Clark Community College, Vancouver, WA*
+** A.A., General Studies
+** A.A.S., Data Networking and Telecommunications
+*** Completed Cisco Networking courses
+*** Completed Telecommunications courses
 
-h2. Notable contributions
+<hr/>
 
-* Worked with Skills USA as a judge for the Web Design competition in 2006 and 2007
-* Created website for Eastern Washington University / Clark College collaboration (no longer used)
-
-h3. WebVisions
-
-* Attended WebVisions 2006 conference in Portland, OR
-* Attended WebVisions 2009 conference in Portland, OR
-* Attended WebVisions 2013 conference in Portland, OR
-* Attended Web Directions North conference in Vancouver, B.C., Canada in February 2007
-
-h3. DrupalCon
-
-* Attended DrupalCon 2010 in San Francisco, CA
-* Attended DrupalCon 2011 in Chicago, IL
-* Attended DrupalCon 2012 in Denver, CO
-* Attended DrupalCon 2013 in Portland, OR
-
-h3. Drupal Projects
+h2. Open Source Projects
 
 * Created and released a Nerdalistic, a Drupal Admin theme
 * Contributed a theme to Simplemenu
@@ -220,7 +218,7 @@ h3. Drupal Projects
 * Created the Viewport Calculator module
 * Contributed to SimpleCore, an open source .NET framework
 
-<hr class="minimal" />
+<hr/>
 
 h2. References
 

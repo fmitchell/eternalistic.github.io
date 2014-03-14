@@ -91,10 +91,17 @@ nav {
 
 			li {
 				&:before {
-					content: "- ";
-					margin-left: -10px;
+					color: $gray-166;
+					content: "-";
+					margin-left: -12px;
 					margin-top: 3px;
 					position: absolute;
+				}
+
+				&:hover {
+					&:before {
+						color: #ff5d52;
+					}
 				}
 			}
 		}
@@ -108,7 +115,7 @@ nav {
 	// Links
 	a,
 	a:visited {
-		color: $gray-84;
+		color: $gray-166;
 		display: block;
 		padding: em(5px) 0;
 		text-decoration: none;
@@ -122,12 +129,21 @@ nav {
 
 	// Projects
 	#projects {
+		color: $gray-166;
+
 		&:after {
 			content: " +";
 		}
 
+		&:hover {
+			&:after {
+				color: #ff5d52;
+			}
+		}
+
 		&.active {
 			&:after {
+				color: #ff5d52;
 				content: " -";
 			}
 		}
