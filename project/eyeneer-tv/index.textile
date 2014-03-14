@@ -1,6 +1,6 @@
 ---
 layout: master
-title: Yoke's Fresh Markets
+title: Eyeneer TV
 ---
 
 h1. {{ page.title }}

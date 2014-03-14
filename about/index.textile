@@ -41,7 +41,6 @@ h2. Tools
 ** "GitHub":http://github.com
 ** "BitBucket":http://bitbucket.org
 ** "Beanstalk":http://beanstalkapp.com
-** "Tower":http://www.git-tower.com
 * "Sequel Pro":http://www.sequelpro.com
 * "MAMP":http://www.mamp.info
 </div>

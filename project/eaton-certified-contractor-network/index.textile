@@ -1,6 +1,6 @@
 ---
 layout: master
-title: Yoke's Fresh Markets
+title: Eaton Certified Contractor Network
 ---
 
 h1. {{ page.title }}

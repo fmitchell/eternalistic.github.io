@@ -1,6 +1,6 @@
 ---
 layout: master
-title: Yoke's Fresh Markets
+title: Dell / Symantec Portal
 ---
 
 h1. {{ page.title }}

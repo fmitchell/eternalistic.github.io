@@ -71,12 +71,4 @@
 
   @include border-radius(2px);
   @include box-shadow(none);
-
-  &:hover,
-  &:focus,
-  &:active {
-    @include box-shadow(
-      0px 0px 0px 3px rgba($black, .05)
-    );
-  }
 }

@@ -1,7 +1,9 @@
 ---
 layout: master
-title: Contact
+title: Contact me
 ---
+
+h1. {{ page.title }}
 
 Hello, welcome to the contact page.
 

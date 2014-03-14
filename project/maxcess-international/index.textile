@@ -1,6 +1,6 @@
 ---
 layout: master
-title: Yoke's Fresh Markets
+title: Maxcess International
 ---
 
 h1. {{ page.title }}

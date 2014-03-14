@@ -1,6 +1,6 @@
 ---
 layout: master
-title: Yoke's Fresh Markets
+title: World Health Advocacy
 ---
 
 h1. {{ page.title }}
