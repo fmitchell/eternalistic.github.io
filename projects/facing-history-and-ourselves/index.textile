@@ -27,12 +27,12 @@ p(sitelink). *Launched:* March 2014 "(btn). View site":http://www.facinghistory.
 
 <hr/>
 
-<figure>!(screenshot)http://eternalistic.net/sites/eternalistic.net/files/imagecache/portfolio_full/portfolio/home_1.jpg!</figure>
+<figure>!(screenshot)screenshots/home_1.jpg!</figure>
 
-<figure>!(screenshot)http://eternalistic.net/sites/eternalistic.net/files/imagecache/portfolio_full/thumbnail-screenshots/calendar.jpg!</figure>
+<figure>!(screenshot)screenshots/calendar.jpg!</figure>
 
-<figure>!(screenshot)http://eternalistic.net/sites/eternalistic.net/files/imagecache/portfolio_full/thumbnail-screenshots/event.jpg!</figure>
+<figure>!(screenshot)screenshots/event.jpg!</figure>
 
-<figure>!(screenshot)http://eternalistic.net/sites/eternalistic.net/files/imagecache/portfolio_full/thumbnail-screenshots/educator.jpg!</figure>
+<figure>!(screenshot)screenshots/educator.jpg!</figure>
 
-<figure class="last">!(screenshot)http://eternalistic.net/sites/eternalistic.net/files/imagecache/portfolio_full/thumbnail-screenshots/benefits.jpg!</figure>
+<figure class="last">!(screenshot)screenshots/benefits.jpg!</figure>
