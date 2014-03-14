@@ -3,6 +3,7 @@ layout: master
 title: About
 body_id: about
 body_section: about
+published: true
 ---
 
 # Jeremy Caldwell
@@ -186,14 +187,14 @@ March 2003 - Present
 
 ## Education
 
-Eastern Washington University, Cheney, WA
-* B.S., Applied Technology
+**Eastern Washington University, Cheney, WA**
+- B.S., Applied Technology
 
-Clark Community College, Vancouver, WA
-* A.A., General Studies
-* A.A.S., Data Networking and Telecommunications
-* Completed Cisco Networking courses
-* Completed Telecommunications courses
+**Clark Community College, Vancouver, WA**
+- A.A., General Studies
+- A.A.S., Data Networking and Telecommunications
+- Completed Cisco Networking courses
+- Completed Telecommunications courses
 
 --
 
