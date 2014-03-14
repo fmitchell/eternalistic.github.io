@@ -12,3 +12,6 @@ http://dl.getdropbox.com/u/3170856/Screenshots/2014/03-March/2014-03-14_10.png
 List of other sites
 https://github.com/jekyll/jekyll/wiki/Sites
 
+
+Prose.io
+https://github.com/prose/prose/wiki/Prose-Configuration
