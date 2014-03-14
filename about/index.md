@@ -5,65 +5,54 @@ body_id: about
 body_section: about
 ---
 
-h1. Jeremy Caldwell
+# Jeremy Caldwell
 
-p(intro). I have specialized in Drupal development for over seven years and have been developing for the web for 10+ years. My experience in design helps bring a different approach to development and accounts for user experience along the way. This ensures the project is easy to use and allows for future development.
+<p class="intro">I have specialized in Drupal development for over seven years and have been developing for the web for 10+ years. My experience in design helps bring a different approach to development and accounts for user experience along the way. This ensures the project is easy to use and allows for future development.</p>
 
-p(intro). I have trained and given presentations at local and regional Drupal user group meetings and continue to train employees internally. I stay current on new technologies and strive to incorporate new development tools and best practices into my workflow.
+<p class="intro">I have trained and given presentations at local and regional Drupal user group meetings and continue to train employees internally. I stay current on new technologies and strive to incorporate new development tools and best practices into my workflow.</p>
 
-p(intro). *Experience, and significant accomplishments:*
-"Acquia Silver Partner":http://www.acquia.com/partners/showcase/eternalistic-designs, "Drupal Association Individual Member":http://association.drupal.org, "Drupal.org contributor":http://drupal.org/user/72964 ("Acquia Prosper":https://drupal.org/project/acquia_prosper, "Acquia Marina":https://drupal.org/project/acquia_marina, "Acquia Slate":https://drupal.org/project/acquia_slate, "jBase5":https://drupal.org/project/jbase5, and "Viewport Calculator":https://drupal.org/project/viewport_calculator).
+**Experience, and significant accomplishments:** <br/>
+[Acquia Silver Partner](http://www.acquia.com/partners/showcase/eternalistic-designs), [Drupal Association Individual Member](http://association.drupal.org), [Drupal.org contributor](http://drupal.org/user/72964) [Acquia Prosper](https://drupal.org/project/acquia_prosper), [Acquia Marina](https://drupal.org/project/acquia_marina), [Acquia Slate](https://drupal.org/project/acquia_slate), [jBase5](https://drupal.org/project/jbase5), and [Viewport Calculator](https://drupal.org/project/viewport_calculator).
 
---
 Previous clients include Symantec, Dell, O'Reilly, University of Washington, and University of Chicago.
 
-<hr/>
+--
 
-<section class="toolkit">
-<div class="languages">
+## Frameworks
 
-h2. Frameworks
+[Sass](http://www.sass-lang.com),
+[Compass](http://compass-style.org),
+[Breakpoint](https://github.com/Team-Sass/breakpoint),
+[Normalize](https://github.com/JohnAlbin/normalize-scss),
+[rgbapng](https://github.com/aaronrussell/compass-rgbapng),
+[Singularity](https://github.com/Team-Sass/Singularity),
+[Toolkit](https://github.com/Team-Sass/toolkit),
+[Grunt](http://gruntjs.com)
 
-(reset)* "Sass":http://www.sass-lang.com
-* "Compass":http://compass-style.org
-** "Breakpoint":https://github.com/Team-Sass/breakpoint 
-** "Normalize":https://github.com/JohnAlbin/normalize-scss
-** "rgbapng":https://github.com/aaronrussell/compass-rgbapng
-** "Singularity":https://github.com/Team-Sass/Singularity
-** "Toolkit":https://github.com/Team-Sass/toolkit
-* "Grunt":http://gruntjs.com
-</div>
+## Tools
 
-<div class="tools">
-h2. Tools
+[Sublime Text](http://www.sublimetext.com), 
+[iTerm2](http://www.iterm2.com), 
+[Git](http://git-scm.com), 
+[GitHub](http://github.com), 
+[BitBucket](http://bitbucket.org), 
+[Beanstalk](http://beanstalkapp.com), 
+[Sequel Pro](http://www.sequelpro.com), 
+[MAMP](http://www.mamp.info)
 
-(reset)* "Sublime Text":http://www.sublimetext.com
-* "iTerm2":http://www.iterm2.com
-* "Git":http://git-scm.com
-** "GitHub":http://github.com
-** "BitBucket":http://bitbucket.org
-** "Beanstalk":http://beanstalkapp.com
-* "Sequel Pro":http://www.sequelpro.com
-* "MAMP":http://www.mamp.info
-</div>
+## Other
 
-<div class="other">
-h2. Other
+[HTML Starter](https://github.com/eternalistic/html-starter),
+[Drupal Zen Subtheme](https://github.com/eternalistic/zen_subtheme),
+[Drush](https://github.com/drush-ops/drush)
 
-(reset)* "HTML Starter":https://github.com/eternalistic/html-starter
-* "Drupal Zen Subtheme":https://github.com/eternalistic/zen_subtheme
-* "Drush":https://github.com/drush-ops/drush
-</div>
+--
 
-</section>
+## Senior Web Developer
 
-<hr/>
-
-h2. Senior Web Developer
-
-Magner Sanborn, Spokane, WA
-April 2012 - Present
-"www.magnersanborn.com":http://www.magnersanborn.com
+Magner Sanborn, Spokane, WA <br/>
+April 2012 - Present <br/>
+[www.magnersanborn.com](http://www.magnersanborn.com)
 
 p(intro). As a Senior Web Developer I specialize in frontend web development building attractive responsive sites using the Drupal framework. I also have experience working within a .NET environment and crafting elegant frontend systems.
 
@@ -83,21 +72,21 @@ Aside from development I am also responsible for helping lead a team of web deve
 * Client services
 * Solution architecting
 
-<hr/>
+--
 
-h2. Co-founder
+## Co-founder
 
-Notera, Spokane, WA
-January 2014 - Present
-"www.notera.net":http://www.notera.net
+Notera, Spokane, WA <br/>
+January 2014 - Present <br/>
+[www.notera.net](http://www.notera.net)
 
-<hr/>
+--
 
-h2. Software Engineer
+## Software Engineer
 
-OpenSesame, Portland, OR
-November 2010 - April 2012
-"www.opensesame.com":http://www.opensesame.com | "www.bluevolt.com":http://www.bluevolt.com
+OpenSesame, Portland, OR <br/>
+November 2010 - April 2012 <br/>
+[www.opensesame.com](http://www.opensesame.com) | [www.bluevolt.com](http://www.bluevolt.com)
 
 * Drupal theme development
 * Provide insight and solutions in regards to the web development process
@@ -106,13 +95,13 @@ November 2010 - April 2012
 * jQuery development
 * User interface design and interaction
 
-<hr/>
+--
 
-h2. Drupal Themer / Project Manager
+## Drupal Themer / Project Manager
 
-TopNotchThemes, San Francisco, CA
-June 2008 - November 2010
-"www.topnotchthemes.com":http://www.topnotchthemes.com | "www.fusiondrupalthemes.com":http://www.fusiondrupalthemes.com
+TopNotchThemes, San Francisco, CA <br/>
+June 2008 - November 2010 <br/>
+[www.topnotchthemes.com](http://www.topnotchthemes.com) | [www.fusiondrupalthemes.com](http://www.fusiondrupalthemes.com)
 
 * Drupal theme development
 * Project management and client relations
@@ -121,13 +110,13 @@ June 2008 - November 2010
 * HTML/CSS development
 * Technical support
 
-<hr/>
+--
 
-h2. Web Developer - Contractor
+## Web Developer - Contractor
 
-Palantir.net, Evanston, IL
-November 2007 - June 2008
-"www.palantir.net":http://www.palantir.net
+Palantir.net, Evanston, IL <br/>
+November 2007 - June 2008 <br/>
+[www.palantir.net](http://www.palantir.net)
 
 * Drupal theme development
 * Provide insight and solutions in regards to the web development process
@@ -136,9 +125,9 @@ November 2007 - June 2008
 * Web site maintenance and updates
 * Search engine optimization
 
-<hr/>
+--
 
-h2. Web Developer
+## Web Developer
 
 CAESY Education Systems, Vancouver, Washington
 January 2006 - November 2007
@@ -161,9 +150,9 @@ January 2006 - November 2007
 ** Shipped over 1000 CAESY Demo CD-ROMs for sales representatives to use in the field
 ** The CAESY Demo CD-ROM is used in on the tradeshow floor to showcase the CAESY DVD.
 
-<hr/>
+--
 
-h2. Help Desk Agent
+## Help Desk Agent
 
 CAESY Education Systems, Vancouver, Washington
 August 2005 - January 2006
@@ -175,9 +164,9 @@ August 2005 - January 2006
 * DVD support
 * Working as a team to pool ideas and information into a FAQ
 
-<hr/>
+--
 
-h2. Web Designer / Developer - Owner
+## Web Designer / Developer - Owner
 
 Eternalistic Designs, Spokane, Washington
 March 2003 - Present
@@ -193,9 +182,9 @@ March 2003 - Present
 * Design and creation of printed materials such as business cards and flyers
 * CSS/HTML Tutoring and consultation services
 
-<hr/>
+--
 
-h2. Education
+## Education
 
 *Eastern Washington University, Cheney, WA*
 ** B.S., Applied Technology
@@ -206,22 +195,22 @@ h2. Education
 *** Completed Cisco Networking courses
 *** Completed Telecommunications courses
 
-<hr/>
+--
 
-h2. Open Source Projects
+## Open Source Projects
 
-* Created and released a "Nerdalistic":https://drupal.org/project/nerdalistic, a Drupal Admin theme
-* Contributed a theme to "Simplemenu":https://drupal.org/project/simplemenu
-* Converted the Drupal 6 release of "Acquia Marina to Drupal 5":http://drupal.org/node/315980
-* Created the "Acquia Marina"::http://drupal.org/project/acquia_marina Drupal 6 and 7 theme based on "Fusion Core"::http://drupal.org/project/fusion
-* Created the "Acquia Prosper"::http://drupal.org/project/acquia_prosper Drupal 6 and 7 theme based on "Fusion Core"::http://drupal.org/project/fusion
-* Created the "Acquia Slate":http://drupal.org/project/acquia_slate Drupal 6 and 7 theme based on "Fusion Core"::http://drupal.org/project/fusion
-* Created the "jBase5":http://drupal.org/project/jbase5 Drupal 7 HTML5 theme
-* Created the "Viewport Calculator":http://drupal.org/project/viewport_calculator module
+* Created and released a [Nerdalistic](https://drupal.org/project/nerdalistic), a Drupal Admin theme)
+* Contributed a theme to [Simplemenu](https://drupal.org/project/simplemenu)
+* Converted the Drupal 6 release of [Acquia Marina to Drupal 5](http://drupal.org/node/315980)
+* Created the [Acquia Marina](http://drupal.org/project/acquia_marina) Drupal 6 and 7 theme based on [Fusion Core](http://drupal.org/project/fusion)
+* Created the [Acquia Prosper](http://drupal.org/project/acquia_prosper) Drupal 6 and 7 theme based on [Fusion Core](http://drupal.org/project/fusion)
+* Created the [Acquia Slate](http://drupal.org/project/acquia_slate) Drupal 6 and 7 theme based on [Fusion Core](http://drupal.org/project/fusion)
+* Created the [jBase5](http://drupal.org/project/jbase5) Drupal 7 HTML5 theme
+* Created the [Viewport Calculator](http://drupal.org/project/viewport_calculator) module
 * Contributed to SimpleCore, an open source .NET framework
 
-<hr/>
+--
 
-h2. References
+## References
 
 Available upon request.

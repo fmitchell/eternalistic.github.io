@@ -11,6 +11,6 @@ permalink: /:year/:month/:title/
 exclude: [Gemfile, Gemfile.lock, inspiration.txt, Gruntfile.js, package.json, node_modules, sass, script.js, production.js]
 
 #GitHub Overrides
-safe: true
+safe: false
 lsi: false
 pygments: true
