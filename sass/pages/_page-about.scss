@@ -13,7 +13,11 @@
 
 // Languages
 .languages {
+	margin-bottom: em(20px);
+
 	@include breakpoint($bp-large, $no-query: true) {
+		margin-bottom: 0;
+
 		@include grid-span(2, 1);
 	}
 }
@@ -21,7 +25,11 @@
 
 // Tools
 .tools {
+	margin-bottom: em(20px);
+
 	@include breakpoint($bp-large, $no-query: true) {
+		margin-bottom: 0;
+
 		@include grid-span(2, 3);
 	}
 }
@@ -29,7 +37,11 @@
 
 // Other
 .other {
+	margin-bottom: em(20px);
+
 	@include breakpoint($bp-large, $no-query: true) {
+		margin-bottom: 0;
+
 		@include grid-span(2, 5);
 	}
 }

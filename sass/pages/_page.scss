@@ -31,12 +31,16 @@ body {
   height: 100%;
 }
 
-
 // Header
 #header {
   background: $white;
   border-bottom: 1px solid $gray-223;
+  left: 0;
   padding: em(20px);
+  position: fixed;
+  top: 0;
+  width: 100%;
+  z-index: 999;
 
   @extend %clearfix;
 
@@ -48,8 +52,13 @@ body {
     height: 100%;
     overflow-y: auto;
     padding: em(40px);
-    position: fixed;
     width: 250px;
+  }
+
+  // Expanded
+  &.expanded {
+    position: relative;
+    margin-bottom: - em(80px);
   }
 
   p {
@@ -95,10 +104,11 @@ body {
 // Logo
 #logo {
   display: block;
-  margin-bottom: em(20px);
+  margin-top: em(3px);
 
   img {
     display: block;
+    margin-top: 0;
     width: 100px;
   }
 }
@@ -107,7 +117,7 @@ body {
 // Main
 #main {
   color: $gray-84;
-  padding: em(20px);
+  padding: em(100px) em(20px) em(20px) em(20px);
 
   @include breakpoint($bp-large, $no-query: true) {   
     height: 100%;

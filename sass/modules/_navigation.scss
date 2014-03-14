@@ -61,9 +61,11 @@
 // Menu blocks
 .menu-blocks {
 	display: none;
+  padding-top: em(20px);
 
 	@include breakpoint($bp-large, $no-query: true) {
 		display: block !important;
+		padding-top: 0;
 	}
 }
 

@@ -20,7 +20,7 @@ Previous clients include Symantec, Dell, O'Reilly, University of Washington, and
 <section class="toolkit">
 <div class="languages">
 
-h2. Languages
+h2. Frameworks
 
 (reset)* "Sass":http://www.sass-lang.com
 * "Compass":http://compass-style.org
@@ -36,7 +36,7 @@ h2. Languages
 h2. Tools
 
 (reset)* "Sublime Text":http://www.sublimetext.com
-* Command line
+* "iTerm2":http://www.iterm2.com
 * "Git":http://git-scm.com
 ** "GitHub":http://github.com
 ** "BitBucket":http://bitbucket.org
@@ -50,6 +50,7 @@ h2. Other
 
 (reset)* "HTML Starter":https://github.com/eternalistic/html-starter
 * "Drupal Zen Subtheme":https://github.com/eternalistic/zen_subtheme
+* "Drush":https://github.com/drush-ops/drush
 </div>
 
 </section>
@@ -207,14 +208,14 @@ h2. Education
 
 h2. Open Source Projects
 
-* Created and released a Nerdalistic, a Drupal Admin theme
-* Contributed a theme to Simplemenu
-* Converted the Drupal 6 release of Acquia Marina to Drupal 5
-* Created the Acquia Marina Drupal 6 and 7 theme based on Fusion Core
-* Created the Acquia Prosper Drupal 6 and 7 theme based on Fusion Core
-* Created the Acquia Slate Drupal 6 and 7 theme based on Fusion Core
-* Created the jBase5 Drupal 7 HTML5 theme
-* Created the Viewport Calculator module
+* Created and released a "Nerdalistic":https://drupal.org/project/nerdalistic, a Drupal Admin theme
+* Contributed a theme to "Simplemenu":https://drupal.org/project/simplemenu
+* Converted the Drupal 6 release of "Acquia Marina to Drupal 5":http://drupal.org/node/315980
+* Created the "Acquia Marina"::http://drupal.org/project/acquia_marina Drupal 6 and 7 theme based on "Fusion Core"::http://drupal.org/project/fusion
+* Created the "Acquia Prosper"::http://drupal.org/project/acquia_prosper Drupal 6 and 7 theme based on "Fusion Core"::http://drupal.org/project/fusion
+* Created the "Acquia Slate":http://drupal.org/project/acquia_slate Drupal 6 and 7 theme based on "Fusion Core"::http://drupal.org/project/fusion
+* Created the "jBase5":http://drupal.org/project/jbase5 Drupal 7 HTML5 theme
+* Created the "Viewport Calculator":http://drupal.org/project/viewport_calculator module
 * Contributed to SimpleCore, an open source .NET framework
 
 <hr/>

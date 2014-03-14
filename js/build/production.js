@@ -13,18 +13,29 @@
 
 
 	// Nav toggle
-	$('#nav-toggle').on('click', function(ev) {
-		$(this).toggleClass('active');
+	$('#nav-toggle').on('click', function(e) {
+    $(this).toggleClass('active');
+    $("#header").toggleClass('expanded');
 		$(".menu-blocks").slideToggle();
-		ev.preventDefault();
+
+
+
+
+
+    $('html, body').animate({
+        scrollTop: $("#page").offset().top
+    });
+
+
+		e.preventDefault();
 	});
 
 
   // Projects toggle
-  $('#projects').on('click', function(ev) {
+  $('#projects').on('click', function(e) {
     $(this).toggleClass('active');
     $(".projects-menu").slideToggle();
-    ev.preventDefault();
+    e.preventDefault();
   });
   
 
