@@ -6,21 +6,19 @@ published: true
 
 h1. {{ page.title }}
 
-I worked as a contractor with the team at "ThinkShout":http://www.thinkshout.com for this project. 
+"MagnerSanborn":http://www.magnersanborn.com was contracted to design and develop a fully responsive site for Yoke's to help showcase the Flavor Trail and make products easily accessible and searchable.
 
-They handled building the Drupal site and working with the client get get exactly what they wanted. I took their vision and turned that into a fully responsive site that works on as many devices as possible.
-
-We had mockups to use for reference but they were unfinished and incomplete. I used them as direction for designing and building elements throughout the site and creating a look and feel that was consistent and filled in the gaps in the design as needed.
+I was responsible for meeting with the clients and discovering what their needs were and developing the backend and frontend of the site. They entered every product into their ad each week and I built tools to help speed up that process and used entities so each product would be reusable once entered into the system. 
 
 <hr/>
 
 h2. Contributions
 
+* Drupal 7.x Site Development
 * Drupal 7.x Responsive Theme
 * HTML
 * SASS/CSS
 * Consulting
-* Design direction
 
 <hr/>
 
