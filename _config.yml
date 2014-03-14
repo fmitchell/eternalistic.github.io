@@ -1,13 +1,14 @@
-url: http://eternalistic.net
+url: http://www.eternalistic.net
 name: Jeremy Caldwell
 author: Jeremy Caldwell
 
 markdown: redcarpet
-pygments: true
 paginate: 5
 
 root: /
 permalink: /:year/:month/:title/
+
+exclude: [Gemfile, Gemfile.lock, inspiration.txt, Gruntfile.js, package.json, node_modules, sass]
 
 #GitHub Overrides
 safe: true

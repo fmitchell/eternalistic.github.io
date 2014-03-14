@@ -1,0 +1,10 @@
+---
+layout: master
+title: Oops, wrong page
+---
+
+h1. {{ page.title }}
+
+p(intro). Whatever is was that you were looking isn't on this page.
+
+p(intro). Oh well, at least you didn't break anything.

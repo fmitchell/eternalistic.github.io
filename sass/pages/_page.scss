@@ -63,6 +63,18 @@ body {
 
   p {
     font-size: em(13px);
+
+    // Powered
+    &.powered {
+      a,
+      a:link {
+        &:hover,
+        &:focus,
+        &:active {
+          color: inherit;
+        }
+      }
+    }
   }
 
   a,
