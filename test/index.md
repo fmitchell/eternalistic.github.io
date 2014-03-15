@@ -6,7 +6,6 @@ body_section: about
 published: true
 ---
 
-
 # Whatever
 
 --
@@ -14,6 +13,8 @@ published: true
 {% include tools.html %}
 
 --
+
+![](/images/03.jpg)
 
 ![fat-guy-burger.jpg](/images/fat-guy-burger.jpg)
 
