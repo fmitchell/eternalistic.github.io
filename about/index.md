@@ -130,7 +130,7 @@ November 2007 - June 2008 <br/>
 
 ## Web Developer
 
-CAESY Education Systems, Vancouver, Washington
+CAESY Education Systems, Vancouver, Washington <br/>
 January 2006 - November 2007
 
 * Technical lead / developer on all web related projects
@@ -155,7 +155,7 @@ January 2006 - November 2007
 
 ## Help Desk Agent
 
-CAESY Education Systems, Vancouver, Washington
+CAESY Education Systems, Vancouver, Washington  <br/>
 August 2005 - January 2006
 
 * Phone based technical support
@@ -169,7 +169,7 @@ August 2005 - January 2006
 
 ## Web Designer / Developer - Owner
 
-Eternalistic Designs, Spokane, Washington
+Eternalistic Designs, Spokane, Washington  <br/>
 March 2003 - Present
 
 * Working with clients to help promote their business online and in print
@@ -188,9 +188,11 @@ March 2003 - Present
 ## Education
 
 **Eastern Washington University, Cheney, WA**
+
 - B.S., Applied Technology
 
 **Clark Community College, Vancouver, WA**
+
 - A.A., General Studies
 - A.A.S., Data Networking and Telecommunications
 - Completed Cisco Networking courses
