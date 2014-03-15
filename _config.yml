@@ -3,6 +3,12 @@ name: Jeremy Caldwell
 author: Jeremy Caldwell
 
 # markdown: redcarpet
+markdown: kramdown
+kramdown:
+  use_coderay: true
+
+
+
 paginate: 5
 
 root: /
