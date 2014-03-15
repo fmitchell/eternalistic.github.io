@@ -1,5 +1,5 @@
 ---
-layout: master
+layout: default
 title: The Caldwell Project
 body_id: caldwellproject
 body_section: project

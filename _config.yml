@@ -3,9 +3,19 @@ name: Jeremy Caldwell
 author: Jeremy Caldwell
 
 # markdown: redcarpet
-markdown: kramdown
+
+
+
 kramdown:
   use_coderay: true
+
+maruku:
+  use_divs:   true
+
+
+
+
+
 
 
 
@@ -19,4 +29,27 @@ exclude: [Gemfile, Gemfile.lock, inspiration.txt, Gruntfile.js, package.json, no
 #GitHub Overrides
 safe: false
 lsi: false
-pygments: true
+
+
+
+
+prose:
+  siteurl: "http://eternalistic.github.io"
+  media: "images"
+  metadata:
+    _posts:
+      - name: "published"
+        field:
+          label: "Published"
+          element: "checkbox"
+          value: "true"
+      - name: "layout"
+        field:
+          label: "Layout"
+          element: "text"
+          value: "post"
+      - name: "title"
+        field:
+          label: "Title"
+          element: "text"
+          value: "A awesome Headline!"

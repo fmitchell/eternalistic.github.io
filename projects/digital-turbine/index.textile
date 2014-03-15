@@ -1,5 +1,5 @@
 ---
-layout: master
+layout: default
 title: Digital Turbine
 body_id: digitalturbine
 body_section: project

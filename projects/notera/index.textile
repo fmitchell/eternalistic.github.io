@@ -1,5 +1,5 @@
 ---
-layout: master
+layout: default
 title: Notera
 body_id: notera
 body_section: project

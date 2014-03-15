@@ -1,5 +1,5 @@
 ---
-layout: master
+layout: default
 title: Dell / Symantec Portal
 body_id: dellsymantec
 body_section: project

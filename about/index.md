@@ -1,5 +1,5 @@
 ---
-layout: master
+layout: default
 title: About
 body_id: about
 body_section: about
