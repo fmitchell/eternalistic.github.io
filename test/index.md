@@ -6,29 +6,23 @@ body_section: about
 published: true
 ---
 
+
+# Yes it works
+## Yeahsadas
+asdasds
+
 --
-
-<div id="test">
 	
-## This should work.
-
-[Sass](http://www.sass-lang.com),
-[Compass](http://compass-style.org),
-[Breakpoint](https://github.com/Team-Sass/breakpoint),
-[Normalize](https://github.com/JohnAlbin/normalize-scss),
-[rgbapng](https://github.com/aaronrussell/compass-rgbapng),
-[Singularity](https://github.com/Team-Sass/Singularity),
-[Toolkit](https://github.com/Team-Sass/toolkit),
-[Grunt](http://gruntjs.com)
-
-</div>
+{% include tools.html %}
 
 --
 
 ![fat-guy-burger.jpg](/images/fat-guy-burger.jpg)
 
 
-
+```javascript
+var msg = 'Hello world!';
+```
 
 
 
@@ -45,16 +39,6 @@ It looks like I can add HTML to posts now using Kramdown.
 - item 3
 
 
-```
+```php
 <?php print 'TEST' ; ?>
 ```
-
-This is a paragraph element before a codeblocked block of C code.
-
-    int main(void) {
-        printf("Hello world!");
-        return 0;
-    }
-{:lang="c"}
-
-Another paragraph element.

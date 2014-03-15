@@ -19,3 +19,7 @@ https://github.com/prose/prose/wiki/Prose-Configuration
 
 Plugins
 http://jekyllrb.com/docs/plugins/
+
+
+
+http://nicolashery.com/fast-mobile-friendly-website-with-jekyll/

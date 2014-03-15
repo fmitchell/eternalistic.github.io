@@ -2,37 +2,35 @@ url: http://www.eternalistic.net
 name: Jeremy Caldwell
 author: Jeremy Caldwell
 
-# markdown: redcarpet
+
+# Editor
+markdown: redcarpet
+pygments: true
 
 
-
-kramdown:
-  use_coderay: true
-
-maruku:
-  use_divs:   true
+# Disqus
+disqus:
+    shortname: 'eternalisticblog'
 
 
-
-
-
-
-
-
+# Post
+post:
+  extension: md
 paginate: 5
-
 root: /
 permalink: /:year/:month/:title/
 
+
+# Exclude
 exclude: [Gemfile, Gemfile.lock, inspiration.txt, Gruntfile.js, package.json, node_modules, sass, script.js, production.js]
 
-#GitHub Overrides
+
+# GitHub Overrides
 safe: false
 lsi: false
 
 
-
-
+# Prose
 prose:
   siteurl: "http://eternalistic.github.io"
   media: "images"
@@ -53,3 +51,4 @@ prose:
           label: "Title"
           element: "text"
           value: "A awesome Headline!"
+

@@ -1,4 +1,7 @@
 # _drafts/
 _site/
+assets
+build
+debug
 .DS_Store
 .sass-cache

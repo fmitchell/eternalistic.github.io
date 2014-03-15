@@ -1,5 +1,8 @@
 module.exports = function(grunt) {
 
+    // Load all NPM grunt tasks
+    require('matchdep').filterAll('grunt-*').forEach(grunt.loadNpmTasks);
+
     // Theme path
     $themepath = '';
 
@@ -11,7 +14,7 @@ module.exports = function(grunt) {
         concat: {   
             dist: {
                 src: [
-                    'js/script.js'                      // Script
+                    'js/script.js'
                 ],
                 dest: 'js/build/production.js',
             }
@@ -68,14 +71,24 @@ module.exports = function(grunt) {
             },
         },
 
+        // Run Jekyll commands
+        jekyll: {
+          server: {
+            options: {
+              serve: true,
+              // Add the --watch flag, i.e. rebuild on file changes
+              watch: true
+            }
+          },
+          build: {
+            options: {
+              serve: false
+            }
+          }
+        },
 
         // Watch
         watch: {
-
-            // Live Reload
-            options: {
-                livereload: true,
-            },
 
             // CSS
             css: {
@@ -97,6 +110,16 @@ module.exports = function(grunt) {
                 },
             },
 
+            jekyll: {
+                files: ['*.md'],
+                tasks: ['jekyll']
+            },
+            
+            // Live Reload
+            options: {
+                livereload: true,
+            },
+
             // Images
             // images: {
             //     files: ['**/*.{png,jpg}'],
@@ -107,6 +130,16 @@ module.exports = function(grunt) {
             // },
         }
 
+    });
+
+    // Alias to `grunt jekyll:server`
+    grunt.registerTask('server', 'jekyll:server');
+
+    // Run Jekyll build with environment set to production
+    grunt.registerTask('jekyll-production', function() {
+        grunt.log.writeln('Setting environment variable JEKYLL_ENV=production');
+        process.env.JEKYLL_ENV = 'production';
+        grunt.task.run('jekyll:build');
     });
 
     // 3. Where we tell Grunt we plan to use this plug-in.
@@ -122,6 +155,7 @@ module.exports = function(grunt) {
         'concat', 
         'uglify', 
         // 'imageoptim',
+        'jekyll-production',
     ]);
 
 };
