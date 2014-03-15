@@ -23,3 +23,7 @@ http://jekyllrb.com/docs/plugins/
 
 
 http://nicolashery.com/fast-mobile-friendly-website-with-jekyll/
+
+
+Windows #1: grunt serve
+Windows #2: grunt watch

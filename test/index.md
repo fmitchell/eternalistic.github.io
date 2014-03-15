@@ -7,9 +7,7 @@ published: true
 ---
 
 
-# Yes it works
-## Yeahsadas
-asdasds
+# Whatever
 
 --
 	
@@ -24,7 +22,11 @@ asdasds
 var msg = 'Hello world!';
 ```
 
-
+```css
+.page {
+	background: red;
+}
+```
 
 [Grunt](http://gruntjs.com)
 

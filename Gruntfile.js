@@ -112,7 +112,7 @@ module.exports = function(grunt) {
 
             jekyll: {
                 files: ['*.md'],
-                tasks: ['jekyll']
+                tasks: ['jekyll-production']
             },
             
             // Live Reload
@@ -121,13 +121,13 @@ module.exports = function(grunt) {
             },
 
             // Images
-            // images: {
-            //     files: ['**/*.{png,jpg}'],
-            //     tasks: ['imageoptim'],
-            //     options: {
-            //         spawn: false,
-            //     },
-            // },
+            images: {
+                files: ['**/*.{png,jpg}'],
+                tasks: ['imageoptim'],
+                options: {
+                    spawn: false,
+                },
+            },
         }
 
     });
@@ -147,14 +147,14 @@ module.exports = function(grunt) {
     grunt.loadNpmTasks('grunt-contrib-uglify');
     grunt.loadNpmTasks('grunt-contrib-watch');
     grunt.loadNpmTasks('grunt-contrib-compass');
-    // grunt.loadNpmTasks('grunt-imageoptim');
+    grunt.loadNpmTasks('grunt-imageoptim');
 
     // 4. Where we tell Grunt what to do when we type "grunt" into the terminal.
     grunt.registerTask('default', [
         'compass', 
         'concat', 
         'uglify', 
-        // 'imageoptim',
+        'imageoptim',
         'jekyll-production',
     ]);
 
