@@ -21,11 +21,16 @@ published: true
 [Toolkit](https://github.com/Team-Sass/toolkit),
 [Grunt](http://gruntjs.com)
 
-
-
 </div>
 
 --
+
+![fat-guy-burger.jpg](/images/fat-guy-burger.jpg)
+
+
+
+
+
 
 [Grunt](http://gruntjs.com)
 
