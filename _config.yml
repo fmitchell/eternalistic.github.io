@@ -16,7 +16,7 @@ disqus:
 # Post
 post:
   extension: md
-paginate: 5
+# paginate: 5
 root: /
 permalink: /:year/:month/:title/
 

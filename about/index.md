@@ -17,7 +17,7 @@ published: true
 
 Previous clients include Symantec, Dell, O'Reilly, University of Washington, and University of Chicago.
 
---
+---
 
 ## Frameworks
 
@@ -47,7 +47,7 @@ Previous clients include Symantec, Dell, O'Reilly, University of Washington, and
 [Drupal Zen Subtheme](https://github.com/eternalistic/zen_subtheme),
 [Drush](https://github.com/drush-ops/drush)
 
---
+---
 
 ## Senior Web Developer
 
@@ -73,7 +73,7 @@ Aside from development I am also responsible for helping lead a team of web deve
 * Client services
 * Solution architecting
 
---
+---
 
 ## Co-founder
 
@@ -81,7 +81,7 @@ Notera, Spokane, WA <br/>
 January 2014 - Present <br/>
 [www.notera.net](http://www.notera.net)
 
---
+---
 
 ## Software Engineer
 
@@ -96,7 +96,7 @@ November 2010 - April 2012 <br/>
 * jQuery development
 * User interface design and interaction
 
---
+---
 
 ## Drupal Themer / Project Manager
 
@@ -111,7 +111,7 @@ June 2008 - November 2010 <br/>
 * HTML/CSS development
 * Technical support
 
---
+---
 
 ## Web Developer - Contractor
 
@@ -126,7 +126,7 @@ November 2007 - June 2008 <br/>
 * Web site maintenance and updates
 * Search engine optimization
 
---
+---
 
 ## Web Developer
 
@@ -151,7 +151,7 @@ January 2006 - November 2007
 ** Shipped over 1000 CAESY Demo CD-ROMs for sales representatives to use in the field
 ** The CAESY Demo CD-ROM is used in on the tradeshow floor to showcase the CAESY DVD.
 
---
+---
 
 ## Help Desk Agent
 
@@ -165,7 +165,7 @@ August 2005 - January 2006
 * DVD support
 * Working as a team to pool ideas and information into a FAQ
 
---
+---
 
 ## Web Designer / Developer - Owner
 
@@ -183,7 +183,7 @@ March 2003 - Present
 * Design and creation of printed materials such as business cards and flyers
 * CSS/HTML Tutoring and consultation services
 
---
+---
 
 ## Education
 
@@ -198,7 +198,7 @@ March 2003 - Present
 - Completed Cisco Networking courses
 - Completed Telecommunications courses
 
---
+---
 
 ## Open Source Projects
 
@@ -212,7 +212,7 @@ March 2003 - Present
 * Created the [Viewport Calculator](http://drupal.org/project/viewport_calculator) module
 * Contributed to SimpleCore, an open source .NET framework
 
---
+---
 
 ## References
 
