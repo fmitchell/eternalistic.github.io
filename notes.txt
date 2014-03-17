@@ -1,29 +1,37 @@
-Inspiration
+# Inspiration
 
 http://www.christianmezofi.com
 http://miguelf.pt
 http://jameslutley.com/about/
 
+----------
 
-
-Homepage
+# Homepage
 http://dl.getdropbox.com/u/3170856/Screenshots/2014/03-March/2014-03-14_10.png
 
 List of other sites
 https://github.com/jekyll/jekyll/wiki/Sites
 
 
-Prose.io
-https://github.com/prose/prose/wiki/Prose-Configuration
+----------
 
+# Redcarpet
+https://github.com/vmg/redcarpet
 
 Plugins
 http://jekyllrb.com/docs/plugins/
 
-
+----------
 
 http://nicolashery.com/fast-mobile-friendly-website-with-jekyll/
 
-
+# Development process
 Windows #1: grunt serve
 Windows #2: grunt watch
+
+----------
+
+Prose.io
+https://github.com/prose/prose/wiki/Prose-Configuration
+
+
