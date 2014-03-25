@@ -18,19 +18,19 @@ I also frequently collaborate with [ThinkShout](http://thinkshout.org), [Brightp
 
 ##Latest Work
 
-### Facing History and Ourselves - [Project info](/projects/facing-history-and-ourselves)
+### Facing History and Ourselves - [View project](/projects/facing-history-and-ourselves)
 
 [![Facing History and Ourselves](/projects/facing-history-and-ourselves/screenshots/medium/home_1.jpg)](/projects/facing-history-and-ourselves)
 
-### Families USA - [Project info](/projects/families-usa)
+### Families USA - [View project](/projects/families-usa)
 
-[![Families USA](/projects/families-usa/screenshots/medium/home_2.jpg)](/projects/families-usa)
+[![Families USA](/projects/families-usa/screenshots/medium/home.jpg)](/projects/families-usa)
 
 ---
 
 ## Drupal Affiliations
 
-<ul class="reset inline">
-	<li><a href="http://acquia.com/partners/showcase/eternalistic-designs" id="acquiapartner" title="Acquia Silver Partner" target="_blank"><img src="/images/drupal/BadgeSilver-120.png" alt="Acquia Silver Partner" title="Acquia Silver Partner" /></a></li>
-	<li><a href="http://association.drupal.org" id="drupalassoc" title="Drupal Association - Individual Member" target="_blank"><img src="/images/drupal/DA-individual-120.png" alt="Drupal Association - Individual Member" title="Drupal Association - Individual Member" /></a></li>
+<ul class="reset inline affiliations">
+	<li><a href="http://acquia.com/partners/showcase/eternalistic-designs" id="acquiapartner" title="Acquia Silver Partner"><img src="/images/drupal/BadgeSilver-120.png" class="clean" alt="Acquia Silver Partner" title="Acquia Silver Partner" /></a></li>
+	<li><a href="http://association.drupal.org" id="drupalassoc" title="Drupal Association - Individual Member"><img src="/images/drupal/DA-individual-120.png" class="clean" alt="Drupal Association - Individual Member" title="Drupal Association - Individual Member" /></a></li>
 </ul>

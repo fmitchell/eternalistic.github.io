@@ -303,8 +303,20 @@ sub {
  */
 
 img {
-    border: 0;
-    display: block;
+  display: block;
+
+  #content & {
+    border: 1px solid $gray-223;
+
+    @include box-shadow(rgba($black, .125) 0 0 4px);
+
+    // Clean
+    &.clean {
+      border: none;
+
+      @include box-shadow(none);
+    }
+  }
 }
 
 /**
@@ -500,9 +512,8 @@ table {
    ========================================================================== */
 
 blockquote {
-  font-size: em(28px);
-  line-height: 100%;
-  margin: 0 0 10px 15px;
+  border-left: 3px solid #ccc;
+  padding-left: em(20px);
 }
 
 
