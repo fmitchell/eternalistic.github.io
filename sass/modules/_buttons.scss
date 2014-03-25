@@ -13,6 +13,12 @@ a.btn:visited,
 	&:focus,
 	&:active {
 	}
+
+	// Launch
+	&.btn-launch {
+		float: right;
+		margin-top: - em(10px);
+	}
 }
 
 

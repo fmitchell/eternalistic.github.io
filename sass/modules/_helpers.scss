@@ -60,3 +60,9 @@ img.screenshot {
 .clearfix {
   @extend %clearfix;
 }
+
+
+// Inline
+.inline {
+  @include inline-block-list;
+}
