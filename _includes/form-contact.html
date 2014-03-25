@@ -1,28 +1,19 @@
----
-layout: default
-title: Contact me
----
-
-h1. {{ page.title }}
-
-Hello, welcome to the contact page.
-
 <form action="http://getsimpleform.com/messages?form_api_token=6f712f289b4db9daec26a6b271c47aae" method="post">
   <input type="hidden" name="redirect_to" value="http://eternalistic.github.io/contact/success" />
 	<div class="form-item field-name">
 		<label>Name</label>
-		<input type="text" name="name" />
+		<input type="text" name="name" class="form-text input-large" />
 	</div>
 
 	<div class="form-item field-email">
 		<label>Email</label>
-		<input type="email" name="email" />
+		<input type="email" name="email" class="form-text input-large" />
 	</div>
 
 	<div class="form-item field-message">
 		<label>Message</label>
-	  <textarea name="message"></textarea>
+	  <textarea rows="5" name="message" class="form-textarea"></textarea>
 	</div>
 
-  <input type="submit" value="Send it" />
+  <input type="submit" value="Send it" class="form-submit" />
 </form>

@@ -9,19 +9,111 @@
 }
 
 
-// Form text
-.form-text,
-.form-textarea {
-  background: $gray-247;
-  border: none;
+
+// Label
+label {
+  color: $gray-100;
+  display: block;
+  font-weight: 700;
+  line-height: 125%;
+  margin-bottom: 5px;
+}
+
+
+
+
+
+
+
+// Textfield
+.form-text {
+  background: $white-250;
+  border: 1px solid $gray-210;
+  color: $gray-150;
   max-width: 100%;
-  outline: none;
-  padding: em(15px);
+  padding: .75em;
+  vertical-align: middle;
   width: 100%;
 
+  @include border-radius(5px);
+
   // Transitions
-  transition: all 0.2s ease-in 0s;
+  transition: background 0.15s ease-in-out 0s;
 
   &:focus {
+    background: $white;
+    border: 1px solid #57A9D9;
+    color: $gray-50;
+    outline: none;
+
+    @include box-shadow(
+      0 0 5px rgba(58, 144, 194, 0.6)
+    );
+
   }
+}
+
+
+
+// Text area
+.form-textarea {
+  background: $white-250;
+  border: 1px solid $gray-210;
+  color: $gray-150;
+  padding: em(10px);
+  vertical-align: middle;
+  width: 100%;
+
+  @include border-radius(5px);
+
+  &:focus {
+    background: $white;
+    border: $gray-150;
+    color: $gray-50;
+  }
+}
+
+
+
+// Actions
+.form-actions {
+  margin-bottom: 0;
+  // padding-top: em(30px);
+}
+
+
+// Radio and Checkbox
+input.form-checkbox, 
+input.form-radio {
+  vertical-align: middle;
+}
+
+
+
+// Input - Extra small
+.input-extra-small { 
+  display: inline; 
+  max-width: 45px; 
+  min-width: 20px; 
+}
+
+// Input - Small
+.input-small { 
+  display: inline; 
+  max-width: 75px; 
+  min-width: 40px; 
+}
+
+// Input - Medium
+.input-medium {
+  display: inline; 
+  max-width: 125px; 
+  min-width: 40px; 
+}
+
+// Input - Large
+.input-large {
+  display: inline; 
+  max-width: 250px; 
+  min-width: 80px; 
 }
