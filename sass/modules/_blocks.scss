@@ -27,3 +27,22 @@ ul.affiliations {
 		margin-right: em(20px);
 	}
 }
+
+
+// Latest work
+.latestwork {
+	display: block;
+
+	@extend %clearfix;
+
+	img {
+		margin-bottom: em(10px);
+		
+		@include breakpoint($bp-xsmall, $no-query: true) {
+			float: left;
+			margin-bottom: 2%;
+			margin-right: 2%;
+			width: 48%;
+		}
+	}
+}

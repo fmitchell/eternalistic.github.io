@@ -35,7 +35,7 @@ Be sure to check out [ThinkShout's full case study](http://thinkshout.com/work/f
 
 ---
 
-![Home](screenshots/home_1.jpg)   
+![Home](screenshots/home.jpg)   
 
 ![Calendar](screenshots/calendar.jpg)   
 

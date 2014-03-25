@@ -10,7 +10,7 @@ published: true
 
 <p class="intro">I'm a frontend web developer who specializes in Drupal theming and site development.</p>
 
-<p class="intro">I have specialized in Drupal development for 7+ years and have been developing for the web for 10+ years. My experience in design helps bring a different approach to development and accounts for user experience along the way. This ensures the project is easy to use and allows for future development.</p>
+<p class="intro">I have been working with Drupal for 7+ years and have been developing for the web for 10+ years. My experience in design helps bring a different approach to development and accounts for user experience along the way. This ensures the project is easy to use and allows for future development and makes for a better project all around.</p>
 
 <p class="intro">I stay current on new technologies and strive to incorporate new development tools and best practices into my workflow.</p>
 
