@@ -48,3 +48,15 @@ img.screenshot {
     margin-bottom: 0;
   }
 }
+
+
+// Clear
+.clear {
+  clear: both;
+}
+
+
+// Clear fix
+.clearfix {
+  @extend %clearfix;
+}

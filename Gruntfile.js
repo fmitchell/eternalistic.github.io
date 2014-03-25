@@ -14,6 +14,7 @@ module.exports = function(grunt) {
         concat: {   
             dist: {
                 src: [
+                    'js/jquery.infieldlabel.min.js',
                     'js/script.js'
                 ],
                 dest: 'js/build/production.js',

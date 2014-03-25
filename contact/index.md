@@ -1,10 +1,12 @@
 ---
 layout: default
-title: Contact me
+title: Get in touch
 ---
 
-##{{ page.title }}
+#{{ page.title }}
 
-Hello, welcome to the contact page.
+Have a project you'd like to collaborate on? Want more information? Feel like spamming my inbox? Either way go ahead and fill out the form below and I'll get back to you as soon as possible.
 
-{% include form-contact.html %}
+---
+
+{% include contact/form.html %}

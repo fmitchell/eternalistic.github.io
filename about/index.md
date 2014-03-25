@@ -8,44 +8,26 @@ published: true
 
 # Jeremy Caldwell
 
-<p class="intro">I have specialized in Drupal development for over seven years and have been developing for the web for 10+ years. My experience in design helps bring a different approach to development and accounts for user experience along the way. This ensures the project is easy to use and allows for future development.</p>
+<p class="intro">I'm a frontend web developer who specializes in Drupal theming and site development.</p>
 
-<p class="intro">I have trained and given presentations at local and regional Drupal user group meetings and continue to train employees internally. I stay current on new technologies and strive to incorporate new development tools and best practices into my workflow.</p>
+<p class="intro">I have specialized in Drupal development for 7+ years and have been developing for the web for 10+ years. My experience in design helps bring a different approach to development and accounts for user experience along the way. This ensures the project is easy to use and allows for future development.</p>
 
-**Experience, and significant accomplishments:** <br/>
-[Acquia Silver Partner](http://www.acquia.com/partners/showcase/eternalistic-designs), [Drupal Association Individual Member](http://association.drupal.org), [Drupal.org contributor](http://drupal.org/user/72964) [Acquia Prosper](https://drupal.org/project/acquia_prosper), [Acquia Marina](https://drupal.org/project/acquia_marina), [Acquia Slate](https://drupal.org/project/acquia_slate), [jBase5](https://drupal.org/project/jbase5), and [Viewport Calculator](https://drupal.org/project/viewport_calculator).
+<p class="intro">I stay current on new technologies and strive to incorporate new development tools and best practices into my workflow.</p>
 
-Previous clients include Symantec, Dell, O'Reilly, University of Washington, and University of Chicago.
+**Associations:** <br/>
+[Acquia Silver Partner](http://www.acquia.com/partners/showcase/eternalistic-designs), [Drupal Association Individual Member](http://association.drupal.org), [Drupal.org contributor](http://drupal.org/user/72964), [Build Guild](http://spokane.buildguild.org).
 
 ---
 
-## Frameworks
+<div class="clearfix">
 
-[Sass](http://www.sass-lang.com),
-[Compass](http://compass-style.org),
-[Breakpoint](https://github.com/Team-Sass/breakpoint),
-[Normalize](https://github.com/JohnAlbin/normalize-scss),
-[rgbapng](https://github.com/aaronrussell/compass-rgbapng),
-[Singularity](https://github.com/Team-Sass/Singularity),
-[Toolkit](https://github.com/Team-Sass/toolkit),
-[Grunt](http://gruntjs.com)
+{% include about/frameworks.html %}
 
-## Tools
+{% include about/tools.html %}
 
-[Sublime Text](http://www.sublimetext.com), 
-[iTerm2](http://www.iterm2.com), 
-[Git](http://git-scm.com), 
-[GitHub](http://github.com), 
-[BitBucket](http://bitbucket.org), 
-[Beanstalk](http://beanstalkapp.com), 
-[Sequel Pro](http://www.sequelpro.com), 
-[MAMP](http://www.mamp.info)
+{% include about/other.html %}
 
-## Other
-
-[HTML Starter](https://github.com/eternalistic/html-starter),
-[Drupal Zen Subtheme](https://github.com/eternalistic/zen_subtheme),
-[Drush](https://github.com/drush-ops/drush)
+</div>
 
 ---
 
@@ -72,6 +54,11 @@ Aside from development I am also responsible for helping lead a team of web deve
 * Contributing to open source projects
 * Client services
 * Solution architecting
+
+### Projects
+* [Yoke's Fresh Markets](http://yokesfreshmarket.com)
+* [Digital Turbine](http://digitalturbine.com)
+* [Crowdswell](http://crowdswell.com)
 
 ---
 
@@ -113,7 +100,7 @@ June 2008 - November 2010 <br/>
 
 ---
 
-## Web Developer - Contractor
+## Web Developer
 
 Palantir.net, Evanston, IL <br/>
 November 2007 - June 2008 <br/>
@@ -145,11 +132,11 @@ January 2006 - November 2007
 * Template Design and Creation
 * Search engine optimization
 * Recreated the CAESY 2008 DVD in flash format to stream video presentations to customers remotely on caesydemo.com
-** Over 20 scheduled web-based demonstrations were confirmed for caesydemo.com in the first two weeks of completion
+* Over 20 scheduled web-based demonstrations were confirmed for caesydemo.com in the first two weeks of completion
 * Developed and created a marketing tool for sales representatives to take the caesydemo.com website with them so they can demonstrate the video presentations on their laptops without the need for internet access
-** Created the auto installer file for the CAESY Demo CD-ROM
-** Shipped over 1000 CAESY Demo CD-ROMs for sales representatives to use in the field
-** The CAESY Demo CD-ROM is used in on the tradeshow floor to showcase the CAESY DVD.
+* Created the auto installer file for the CAESY Demo CD-ROM
+* Shipped over 1000 CAESY Demo CD-ROMs for sales representatives to use in the field
+* The CAESY Demo CD-ROM is used in on the tradeshow floor to showcase the CAESY DVD.
 
 ---
 
@@ -217,3 +204,8 @@ March 2003 - Present
 ## References
 
 Available upon request.
+
+---
+
+## Like what you see? [Get in touch](/contact).
+

@@ -17,16 +17,9 @@
     $(this).toggleClass('active');
     $("#header").toggleClass('expanded');
 		$(".menu-blocks").slideToggle();
-
-
-
-
-
     $('html, body').animate({
         scrollTop: $("#page").offset().top
     });
-
-
 		e.preventDefault();
 	});
 
@@ -38,6 +31,12 @@
     e.preventDefault();
   });
   
+
+  // Infield label
+  $(function() {
+    $("label.infield").inFieldLabels();
+  });
+
 
   // Grid toggle
   // $(function() {

@@ -97,7 +97,7 @@ a:visited {
   &:hover,
   &:focus,
   &:active {
-    background: #ff5d52;
+    background-color: #ff5d52;
     color: $white;
 
     @include border-radius(2px);

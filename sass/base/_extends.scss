@@ -65,9 +65,10 @@
 // Button
 %button {
   background: #ff5d52;
+  border: none;
   color: $white;
-  font-size: em(14px);
-  padding: em(5px) em(10px);
+  font-size: em(16px);
+  padding: em(10px) em(15px);
 
   @include border-radius(2px);
   @include box-shadow(none);

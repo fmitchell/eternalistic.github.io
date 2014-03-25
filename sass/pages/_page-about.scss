@@ -11,8 +11,8 @@
 }
 
 
-// Languages
-.languages {
+// Framework
+.framework {
 	margin-bottom: em(20px);
 
 	@include breakpoint($bp-large, $no-query: true) {
