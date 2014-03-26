@@ -56,7 +56,7 @@ Aside from development I am also responsible for helping lead a team of web deve
 * Solution architecting
 
 ### Projects
-* [Yoke's Fresh Markets](http://yokesfreshmarket.com)
+* [Yoke's Fresh Markets](http://yokesfreshmarkets.com)
 * [Digital Turbine](http://digitalturbine.com)
 * [Crowdswell](http://crowdswell.com)
 
@@ -208,4 +208,3 @@ Available upon request.
 ---
 
 ## Like what you see? [Get in touch](/contact).
-
