@@ -13,39 +13,31 @@
 
 
 	// Nav toggle
-	$('#nav-toggle').on('click', function(e) {
-    $(this).toggleClass('active');
-    $("#header").toggleClass('expanded');
-		$(".menu-blocks").slideToggle();
-    $('html, body').animate({
-        scrollTop: $("#page").offset().top
+    var $navToggle = $('#nav-toggle');
+    $navToggle.click(function(e){
+        $(this).toggleClass('active');
+        $('#header').toggleClass('expanded');
+        $('.menu-blocks', '#header').slideToggle();
+        $('html, body').animate({
+            scrollTop: $('#page').offset().top
+        });
+        e.preventDefault();
     });
-		e.preventDefault();
-	});
 
 
-  // Projects toggle
-  $('#projects').on('click', function(e) {
-    $(this).toggleClass('active');
-    $(".projects-menu").slideToggle();
-    e.preventDefault();
-  });
-  
-
-  // Infield label
-  $(function() {
-    $("label.infield").inFieldLabels();
-  });
+    // Projects toggle
+    var $projectToggle = $('#projects');
+    $projectToggle.click(function(e){
+        $(this).toggleClass('active');
+        $('.projects-menu', '#header').slideToggle();
+        e.preventDefault();
+    });
 
 
-  // Grid toggle
-  // $(function() {
+    // Infield label
+    $(function() {
+        $("label.infield").inFieldLabels();
+    });
 
-  //   $("#gridtoggle").click(function(e) {
-  //     $("#grid").toggle();
-  //     e.preventDefault();
-  //   });
-
-  // });
 
 })(jQuery, this, this.document);
