@@ -1,6 +1,6 @@
 ---
 layout: default
-title: front-end Web Developer specializing in Drupal
+title: Front-end Web Developer specializing in Drupal
 published: true
 ---
 
