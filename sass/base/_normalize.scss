@@ -528,13 +528,13 @@ blockquote {
 
 // Selection
 ::-moz-selection {
-  background: $gray-100;
+  background: #ff5d52;
   color: $white;
   text-shadow: none;
 }
 
 ::selection {
-  background: $gray-100;
+  background: #ff5d52;
   color: $white;
   text-shadow: none;
 }

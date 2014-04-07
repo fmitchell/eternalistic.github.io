@@ -1,31 +1,31 @@
 ---
 layout: default
-title: The Caldwell Project
-body_id: caldwell-project
+title: The Denver Egotist
+body_id: denver-egotist
 body_section: project
 
 # Project infomration
-site_link: <a href="http://www.thecaldwellproject.com" class="btn btn-launch">View site</a>
-launch_date: March 2013
+site_link: <a href="http://www.thedenveregotist.com" class="btn btn-launch">View site</a>
+launch_date: January 2010
 ---
 
 #{{ page.title }}
 
-The Caldwell Project website is an outlet for my wife to showcase her unique talents and projects.
+The Denver Egotist is an anonymously-run website featuring the best creative, the best talent and the best resources in Denver &mdash; keeping it all in the greater context of what’s happening internationally. Our intent is to foster growth in this city, both professionally and conceptually.
 
-Taken from her site:
->So here I am, juggling the demands of motherhood and a home remodel, growing and learning new things all the time. The Caldwell Project Blog is about my process of learning how to be a better mother, wife, decorator, builder, crafter, and everything in between.
+Working closely with the team at [General Projects](http://pieratt.com), I was responsible for the site development and theming for The Denver Egotist. We were provided very high quality design files and strict requirements for presentation. All of the content from the existing site was migrated and working within the new Drupal system.
+
+[The Egotist Network](http://theegotistnetwork.com) is an exclusive platform built specifically to feature the work, talent, resources and point-of-view of your local creative market. The site rolled out in Denver and has since expanded to numerous other locations.
 
 ---
 
 ##Contributions
 
-* Drupal 7.x Responsive Theme
-* Site development
+* Drupal 6.x Theme
 * HTML
-* SASS/CSS
+* CSS
+* Site development
 * Consulting
-* Design direction
 
 ---
 
@@ -33,6 +33,10 @@ Taken from her site:
 
 ---
 
-![Projects](screenshots/projects.jpeg)  
-
 ![Home](screenshots/home.jpeg)  
+
+![Article](screenshots/article.jpeg)  
+
+![Forum](screenshots/forum.jpeg)  
+
+![Talent](screenshots/talent.jpeg)  
