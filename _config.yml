@@ -18,7 +18,6 @@ exclude: [
   'Gemfile.lock',
   'README.md',
   'sass',
-  'js',
   'coffee',
   'env',
   'tmp',

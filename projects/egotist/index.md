@@ -1,7 +1,7 @@
 ---
 layout: default
-title: Eyeneer TV
-body_id: eyeneer-tv
+title: The Caldwell Project
+body_id: caldwell-project
 body_section: project
 
 # Project infomration
