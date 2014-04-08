@@ -17,11 +17,4 @@ I frequently collaborate with [ThinkShout](http://thinkshout.org), [Brightplum](
 
 ---
 
-##Latest Work
-
-<span class="latestwork">
-	[![Facing History and Ourselves](/projects/facing-history-and-ourselves/screenshots/medium/home.jpg)](/projects/facing-history-and-ourselves)
-	[![Families USA](/projects/families-usa/screenshots/medium/home.jpg)](/projects/families-usa)
-	[![The Caldwell Project](/projects/the-caldwell-project/screenshots/medium/home.jpg)](/projects/the-caldwell-project)
-	[![The Salmon Project](/projects/the-salmon-project/screenshots/medium/home.jpg)](/projects/the-salmon-project)
-</span>
+{% include home/latestwork.html %}

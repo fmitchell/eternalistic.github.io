@@ -30,19 +30,58 @@ ul.affiliations {
 
 
 // Latest work
-.latestwork {
-	display: block;
+ul.latestwork {
+  @include inline-block-list;
 
-	@extend %clearfix;
-
-	img {
+  li {
 		margin-bottom: em(10px);
-		
+
 		@include breakpoint($bp-xsmall, $no-query: true) {
-			float: left;
-			margin-bottom: 2%;
-			margin-right: 2%;
-			width: 48%;
+	    @include grid-span(1, 1, 2, 0, 'float');
 		}
-	}
+
+		// Links
+		a {
+			display: block;
+
+			@include box-shadow(none);
+
+			@include breakpoint($bp-xsmall, $no-query: true) {
+		    padding-left: em(5px);
+		    padding-right: em(5px);
+		  }
+
+		  &:hover,
+		  &:focus,
+		  &:active {
+		  	background: transparent;
+		  }
+		}
+
+    // First
+    &:nth-child(1n+1) {
+    	a {
+	    	@include breakpoint($bp-xsmall, $no-query: true) {
+	      	padding-left: 0;
+	      	padding-right: em(5px);
+	    	}
+    	}
+    }
+
+    // Last
+    &:nth-child(2n+2) {
+    	a {
+	    	@include breakpoint($bp-xsmall, $no-query: true) {
+	      	padding-left: em(5px);
+	      	padding-right: 0;
+	    	}
+    	}
+    }
+  }
+
+	// Image
+  img {
+  	display: block;
+  	width: 100%;
+  }
 }
