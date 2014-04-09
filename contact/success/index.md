@@ -1,7 +1,7 @@
 ---
 layout: default
 title: "Success!"
-published: true
+body_id: contact-success
 ---
 
 #{{ page.title }}

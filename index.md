@@ -1,7 +1,7 @@
 ---
 layout: default
 title: Front-end Web Developer specializing in Drupal
-published: true
+body_id: home
 ---
 
 #Hi, I'm Jeremy Caldwell.

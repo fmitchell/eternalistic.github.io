@@ -1,6 +1,7 @@
 ---
 layout: default
 title: Get in touch
+body_id: contact
 ---
 
 #{{ page.title }}
