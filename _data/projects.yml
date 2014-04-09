@@ -1,0 +1,29 @@
+- name: Dell / Symantec Portal
+  path: dell-symantec-portal
+
+- name: Denver Egotist
+  path: egotist
+
+- name: Eyeneer TV
+  path: eyeneer-tv
+
+- name: Facing History and Ourselves
+  path: facing-history-and-ourselves
+
+- name: Families USA
+  path: families-usa
+
+- name: Maxcess International
+  path: maxcess-international
+
+- name: O'Reilly Ignite
+  path: oreilly-ignite
+
+- name: The Salmon Project
+  path: the-salmon-project
+
+- name: The Caldwell Project
+  path: the-caldwell-project
+
+- name: University of Chicago News
+  path: university-of-chicago-news
