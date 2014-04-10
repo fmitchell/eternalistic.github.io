@@ -10,9 +10,9 @@ published: true
 
 <p class="intro">I'm a front-end web developer who specializes in Drupal theming and site development.</p>
 
-<p class="intro">I have been working with Drupal for 7+ years and have been developing for the web for 10+ years. My experience in design helps bring a different approach to development and accounts for user experience along the way. This ensures the project is easy to use and allows for future development and makes for a better project all around.</p>
+<p class="intro">I've been working with Drupal since 2006 and have been developing for the web since 1998. My experience in design helps bring a different approach to development and accounts for user experience along the way. This ensures the project is easy to use and allows for future development and makes for a better project all around.</p>
 
-<p class="intro">I stay current on new technologies and strive to incorporate new development tools and best practices into my workflow.</p>
+<p class="intro">I stay current on new technologies and strive to incorporate new development tools and best practices into my workflow and share what I've learned with others.</p>
 
 **Associations:** <br/>
 [Acquia Silver Partner](http://www.acquia.com/partners/showcase/eternalistic-designs), [Drupal Association Individual Member](http://association.drupal.org), [Drupal.org contributor](http://drupal.org/user/72964), [Build Guild](http://spokane.buildguild.org).
