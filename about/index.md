@@ -37,7 +37,7 @@ Magner Sanborn, Spokane, WA <br/>
 April 2012 - Present <br/>
 [www.magnersanborn.com](http://www.magnersanborn.com)
 
-p(intro). As a Senior Web Developer I specialize in front-end web development building attractive responsive sites using the Drupal framework. I also have experience working within a .NET environment and crafting elegant front-end systems.
+As a Senior Web Developer I specialize in front-end web development building attractive responsive sites using the Drupal framework. I also have experience working within a .NET environment and crafting elegant front-end systems.
 
 I strive to stay current with the technologies within our community and contribute back and share what I’ve learned as much as possible.
 
