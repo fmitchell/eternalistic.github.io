@@ -8,7 +8,7 @@ published: true
 
 # Jeremy Caldwell
 
-<p class="intro">I'm a front-end web developer who specializes in Drupal theming and site development.</p>
+<p class="intro">I'm a front end web developer who specializes in Drupal theming and site development.</p>
 
 <p class="intro">I've been working with Drupal since 2006 and have been developing for the web since 1998. My experience in design helps bring a different approach to development and accounts for user experience along the way. This ensures the project is easy to use and allows for future development and makes for a better project all around.</p>
 
@@ -37,14 +37,14 @@ Magner Sanborn, Spokane, WA <br/>
 April 2012 - Present <br/>
 [www.magnersanborn.com](http://www.magnersanborn.com)
 
-As a Senior Web Developer I specialize in front-end web development building attractive responsive sites using the Drupal framework. I also have experience working within a .NET environment and crafting elegant front-end systems.
+As a Senior Web Developer I specialize in front end web development building attractive responsive sites using the Drupal framework. I also have experience working within a .NET environment and crafting elegant front end systems.
 
 I strive to stay current with the technologies within our community and contribute back and share what I’ve learned as much as possible.
 
 * Responsive design and development
 * Drupal theme development
 * Drupal site development
-* .NET front-end development
+* .NET front end development
 
 Aside from development I am also responsible for helping lead a team of web developers and working with designers, project managers, and clients.
 

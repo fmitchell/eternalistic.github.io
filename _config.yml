@@ -5,7 +5,7 @@ url: http://www.eternalistic.net
 
 # Editor
 markdown: redcarpet
-pygments: true
+highlighter: true
 permalink: /:title/
 
 exclude: [
