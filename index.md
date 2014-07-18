@@ -1,11 +1,11 @@
 ---
 layout: default
-title: Front End Web Developer specializing in Drupal
+title: UX Designer and Front-end Developer specializing in Drupal
 body_id: home
 ---
 
 #Hi, I'm Jeremy Caldwell.
-##I'm a front end web developer located in Spokane, WA.
+##I'm a UX Designer and Front-end Developer located in Spokane, WA.
 
 I specialize in [Drupal](http://drupal.org) theming, site development, and design. If it's on the web I can help.
 
