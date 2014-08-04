@@ -66,3 +66,9 @@ img.screenshot {
 .inline {
   @include inline-block-list;
 }
+
+
+// Small
+.small {
+  font-size: em(12px);
+}

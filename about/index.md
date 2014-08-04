@@ -33,7 +33,7 @@ published: true
 
 ## Senior Web Developer
 
-Magner Sanborn, Spokane, WA <br/>
+Magner Sanborn, Spokane, WA<br/>
 April 2012 - Present <br/>
 [www.magnersanborn.com](http://www.magnersanborn.com)
 
@@ -72,7 +72,7 @@ January 2014 - Present <br/>
 
 ## Software Engineer
 
-OpenSesame, Portland, OR <br/>
+OpenSesame, Portland, OR (<em class="small">Worked remotely</em>)<br/>
 November 2010 - April 2012 <br/>
 [www.opensesame.com](http://www.opensesame.com) | [www.bluevolt.com](http://www.bluevolt.com)
 
@@ -87,7 +87,7 @@ November 2010 - April 2012 <br/>
 
 ## Drupal Themer / Project Manager
 
-TopNotchThemes, San Francisco, CA <br/>
+TopNotchThemes, San Francisco, CA (<em class="small">Worked remotely</em>)<br/>
 June 2008 - November 2010 <br/>
 [www.topnotchthemes.com](http://www.topnotchthemes.com) | [www.fusiondrupalthemes.com](http://www.fusiondrupalthemes.com)
 
@@ -102,7 +102,7 @@ June 2008 - November 2010 <br/>
 
 ## Web Developer
 
-Palantir.net, Evanston, IL <br/>
+Palantir.net, Evanston, IL (<em class="small">Worked remotely</em>)<br/>
 November 2007 - June 2008 <br/>
 [www.palantir.net](http://www.palantir.net)
 
