@@ -34,7 +34,7 @@ published: true
 ## Senior Web Developer
 
 Magner Sanborn, Spokane, WA<br/>
-April 2012 - Present <br/>
+April 2012 - November 2014 <br/>
 [www.magnersanborn.com](http://www.magnersanborn.com)
 
 As a Senior Web Developer I specialize in front end web development building attractive responsive sites using the Drupal framework. I also have experience working within a .NET environment and crafting elegant front end systems.
@@ -156,10 +156,10 @@ August 2005 - January 2006
 
 ## Web Designer / Developer - Owner
 
-Eternalistic Designs, Spokane, Washington  <br/>
+Eternalistic Inc., Spokane, Washington  <br/>
 March 2003 - Present
 
-* Working with clients to help promote their business online and in print
+* Working with clients to help promote their business online
 * Website and Graphic Design
 * HTML/CSS development
 * Provide Macromedia Flash solutions
