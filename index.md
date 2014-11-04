@@ -9,7 +9,7 @@ body_id: home
 
 I specialize in [Drupal](http://drupal.org) theming, site development, and design. If it's on the web I can help.
 
-I frequently collaborate with [Lullabot](http://www.lullabot.com), [The Linux Foundation](http://http://www.linuxfoundation.org), [ThinkShout](http://thinkshout.org), [Brightplum](http://brightplum.com), and [Ward Health](http://wardhealth.com).
+I frequently collaborate with [Lullabot](http://www.lullabot.com), [The Linux Foundation](http://www.linuxfoundation.org), [ThinkShout](http://thinkshout.org), [Brightplum](http://brightplum.com), and [Ward Health](http://wardhealth.com).
 
 **Previous clients include:** Dell, Symantec, O'Reilly, University of Chicago, and University of Washington.
 
