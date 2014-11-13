@@ -31,6 +31,20 @@ published: true
 
 ---
 
+## President
+
+Eternalistic Inc., Spokane, Washington  <br/>
+March 2003 - Present
+
+* Consulting
+* Web development and site building
+* Graphic Design
+* Maintenance and updates
+* Develop creative concepts for web site content and interaction
+* Building and maintaining online forums, e-commerce solutions, blogs and newsletters
+
+---
+
 ## Senior Web Developer
 
 Magner Sanborn, Spokane, WA<br/>
@@ -151,24 +165,6 @@ August 2005 - January 2006
 * Product testing and information gathering
 * DVD support
 * Working as a team to pool ideas and information into a FAQ
-
----
-
-## Web Designer / Developer - Owner
-
-Eternalistic Inc., Spokane, Washington  <br/>
-March 2003 - Present
-
-* Working with clients to help promote their business online
-* Website and Graphic Design
-* HTML/CSS development
-* Provide Macromedia Flash solutions
-* Multimedia Graphic Design
-* Web site maintenance and updates
-* Develop creative concepts for web site content and interaction
-* Building and maintaining online forums, e-commerce solutions, blogs and newsletters
-* Design and creation of printed materials such as business cards and flyers
-* CSS/HTML Tutoring and consultation services
 
 ---
 
