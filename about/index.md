@@ -37,11 +37,9 @@ Eternalistic Inc., Spokane, Washington  <br/>
 March 2003 - Present
 
 * Consulting
-* Web development and site building
-* Graphic Design
-* Maintenance and updates
-* Develop creative concepts for web site content and interaction
-* Building and maintaining online forums, e-commerce solutions, blogs and newsletters
+* Responsive web design and development
+* Drupal theming and site development
+* .NET front-end development
 
 ---
 
